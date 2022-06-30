@@ -62,9 +62,9 @@ https://cdnuk001.broadcastcdn.net/KUK-DRAMA/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-QUESTTVHD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="CBSRealityUK.uk" tvg-chno="146" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/CBS%20Reality.png" group-title="IPTV Entertainment",CBS Reality (576p)
 https://cdnuk001.broadcastcdn.net/KUK-CBSREALITY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CBSDramaUK.uk" tvg-chno="147" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/CBS%20Drama.png" group-title="IPTV Entertainment",CBS Drama (480p)
+#EXTINF:-1 tvg-id="CBSDramaUK.uk" tvg-chno="147" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/RealityXtra.png" group-title="IPTV Entertainment",RealityXtra (480p)
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=hls
-#EXTINF:-1 tvg-id="CBSJusticeUK.uk" tvg-chno="148" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/CBS%20Justice.png" group-title="IPTV Entertainment",CBS Justice (576p)
+#EXTINF:-1 tvg-id="CBSJusticeUK.uk" tvg-chno="148" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Legend.png" group-title="IPTV Entertainment",Legend (576p)
 https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="QuestRedUK.uk" tvg-chno="149" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Quest%20Red.png" group-title="IPTV Entertainment",Quest Red (576p)
 https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/tracks-v1a1/mono.m3u8
@@ -100,8 +100,6 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-entertainment-live360-hsslive-25f-SD
 #EXTINF:-1 tvg-id="CourtTVUK.uk" tvg-chno="179" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Court%20TV.png" group-title="IPTV Entertainment",Court TV (720p)
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 tvg-id="ForcesTV.uk" tvg-chno="181" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Forces%20TV.png" group-title="IPTV Entertainment",Forces TV (576p)
-https://cdnuk001.broadcastcdn.net/KUK-FORCESTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="182" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Channel%207.png" group-title="IPTV Entertainment",Channel 7 (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-entertainment-gntv-hsslive-25f-16x9-SD
 #EXTINF:-1 tvg-id="" tvg-chno="185" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Travelxp.png" group-title="IPTV Entertainment",Travelxp (720p)
@@ -287,7 +285,7 @@ https://d3d0bkvqxpkoih.cloudfront.net/tg4_vod_3.m3u8
 
 #EXTINF:-1 tvg-id="Film4UK.uk" tvg-chno="313" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Film4.png" group-title="IPTV Movies",Film4 (576p)
 https://cdnuk001.broadcastcdn.net/KUK-FILM4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HorrorChannelUK.uk" tvg-chno="317" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Horror%20Channel.png" group-title="IPTV Movies",Horror Channel (576p)
+#EXTINF:-1 tvg-id="HorrorChannelUK.uk" tvg-chno="317" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/HorrorXtra.png" group-title="IPTV Movies",HorrorXtra (576p)
 https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GreatMoviesClassic.uk" tvg-chno="319" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Great%20Movies%20Classic.png" group-title="IPTV Movies",Great! Movies Classic (576p)
 https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIESCLASSICS/tracks-v1a1/mono.m3u8
