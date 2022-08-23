@@ -693,21 +693,21 @@ http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-christian-daystartv-
 https://inspministryf-a.akamaihd.net/file/INSP_Ministry_Inc/247/395/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveworldTV.uk" tvg-chno="585" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/LoveWorld%20UK%20HD.png" group-title="IPTV Religion",LoveWorld UK (1080p)
 https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="586" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/EWTN.png" group-title="IPTV Religion",EWTN Catholic (720p)
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="587" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/The%20Word%20Network.png" group-title="IPTV Religion",The Word Network (480p)
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="588" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/EWTN.png" group-title="IPTV Religion",EWTN Catholic (720p)
-https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FaithWorldTV.uk" tvg-chno="589" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Faith%20World%20TV.png" group-title="IPTV Religion",Faith World TV (576p)
+#EXTINF:-1 tvg-id="FaithWorldTV.uk" tvg-chno="588" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Faith%20World%20TV.png" group-title="IPTV Religion",Faith World TV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-christian-faithtv-SD
-#EXTINF:-1 tvg-id="KICCTV.uk" tvg-chno="590" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/KICC%20TV.png" group-title="IPTV Religion",KICC TV (720p)
+#EXTINF:-1 tvg-id="KICCTV.uk" tvg-chno="589" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/KICC%20TV.png" group-title="IPTV Religion",KICC TV (720p)
 https://kcc.cdn.mangomolo.com/kc/smil:kicc.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GoodNewsTV.uk" tvg-chno="596" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Good%20News%20TV.png" group-title="IPTV Religion",Good News TV (576p)
+#EXTINF:-1 tvg-id="GoodNewsTV.uk" tvg-chno="591" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Good%20News%20TV.png" group-title="IPTV Religion",Good News TV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-religion-goodnewstv-SD
-#EXTINF:-1 tvg-id="DunamisTV.ng" tvg-chno="597" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Dunamis%20TV.png" group-title="IPTV Religion",Dunamis TV (576p)
+#EXTINF:-1 tvg-id="DunamisTV.ng" tvg-chno="592" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Dunamis%20TV.png" group-title="IPTV Religion",Dunamis TV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-religion-dunamistv-SD
-#EXTINF:-1 tvg-id="" tvg-chno="598" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/SBN%20International.png" group-title="IPTV Religion",SBN USA (720p)
+#EXTINF:-1 tvg-id="" tvg-chno="593" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/SBN%20International.png" group-title="IPTV Religion",SBN USA (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SonlifeTV/live
-#EXTINF:-1 tvg-id="" tvg-chno="598" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/New%20Media%20TV%20UK.png" group-title="IPTV Religion",New Media TV UK (1080p)
+#EXTINF:-1 tvg-id="" tvg-chno="594" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/New%20Media%20TV%20UK.png" group-title="IPTV Religion",New Media TV UK (1080p)
 https://stream.newmediatvuk.com/abr_live/play/playlist.m3u8
 
 	# Adult
