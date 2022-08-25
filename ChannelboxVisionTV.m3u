@@ -122,31 +122,31 @@ http://cbxedge.synapsetv.com/picker/tsstreamer/?f=DuckTVLDAI_SD
 	# International
 		# Hindi
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Bollywood%20Classic.png" group-title="IPTV International Hindi",Bollywood Classic (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Bollywood%20Classic.png" group-title="IPTV Int Hindi",Bollywood Classic (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=BollywoodClassicLDAI_SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Bollywood%20HD.png" group-title="IPTV International Hindi",Bollywood HD (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Bollywood%20HD.png" group-title="IPTV Int Hindi",Bollywood HD (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=BollywoodHDLDAI_SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Times%20Now%20Navbharat.png" group-title="IPTV International Hindi",Times Now Navbharat (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Times%20Now%20Navbharat.png" group-title="IPTV Int Hindi",Times Now Navbharat (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=TimesNavbharatLDAI_SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Zoom.png" group-title="IPTV International Hindi",Zoom (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Zoom.png" group-title="IPTV Int Hindi",Zoom (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=ZoomLDAI_SD
 	
 		# Urdu
 
-#EXTINF:-1 tvg-id="" tvg-chno="752" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/British%20Muslim%20TV.png" group-title="IPTV International Urdu",British Muslim TV (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="752" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/British%20Muslim%20TV.png" group-title="IPTV Int Urdu",British Muslim TV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-SD
-#EXTINF:-1 tvg-id="" tvg-chno="756" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Channel%2044.png" group-title="IPTV International Urdu",Channel 44 (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="756" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Channel%2044.png" group-title="IPTV Int Urdu",Channel 44 (576p)
 https://news.sechls01.visionip.tv/live/visiontvuk-news-uk44-freeview-hsslive-25f-16x9-SD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="737" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Islam%20Channel.png" group-title="IPTV International Urdu",Islam Channel (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="737" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Islam%20Channel.png" group-title="IPTV Int Urdu",Islam Channel (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-international-islamchannel-hsslive-25f-4x3-SD
 	
 		# Punjabi
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Balle%20Balle.png" group-title="IPTV International Punjabi",Balle Balle (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Balle%20Balle.png" group-title="IPTV Int Punjabi",Balle Balle (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=BalleBalleLDAI_SD
-#EXTINF:-1 tvg-id="" tvg-chno="767" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Brit%20Asia%20TV.png" group-title="IPTV International Punjabi",Brit Asia TV (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="767" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Brit%20Asia%20TV.png" group-title="IPTV Int Punjabi",Brit Asia TV (576p)
 https://international.sechls01.visionip.tv/live/visiontvuk-international-brit-asia-hsslive-25f-SD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="768" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sikh%20Channel.png" group-title="IPTV International Punjabi",Sikh Channel (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="768" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sikh%20Channel.png" group-title="IPTV Int Punjabi",Sikh Channel (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-international-sikh-channel-hsslive-25f-16x9-SD
 	
 		# Bengali
@@ -154,46 +154,46 @@ http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-international-sikh-c
 	
 		# Arabic
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Al%20Arabiya.png" group-title="IPTV International Arabic",Al Arabiya (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Al%20Arabiya.png" group-title="IPTV Int Arabic",Al Arabiya (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-international-alarabiya-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Al%20Hadath.png" group-title="IPTV International Arabic",Al Hadath (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Al%20Hadath.png" group-title="IPTV Int Arabic",Al Hadath (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-international-alhadath-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Alaraby%202.png" group-title="IPTV International Arabic",Alaraby 2 (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Alaraby%202.png" group-title="IPTV Int Arabic",Alaraby 2 (576p)
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-international-alaraby2-SD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Alaraby%20TV.png" group-title="IPTV International Arabic",Alaraby TV (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Alaraby%20TV.png" group-title="IPTV Int Arabic",Alaraby TV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-news-alaraby-hsslive-25f-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Asharq%20News.png" group-title="IPTV International Arabic",Asharq News (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Asharq%20News.png" group-title="IPTV Int Arabic",Asharq News (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-international-asharqnews-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Rotana%20Cinema.png" group-title="IPTV International Arabic",Rotana Cinema (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Rotana%20Cinema.png" group-title="IPTV Int Arabic",Rotana Cinema (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=RotCinemaLDAI_SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Rotana%20Classic.png" group-title="IPTV International Arabic",Rotana Classic (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Rotana%20Classic.png" group-title="IPTV Int Arabic",Rotana Classic (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=RotClassicLDAI_SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sharjah%20TV.png" group-title="IPTV International Arabic",Sharjah TV (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sharjah%20TV.png" group-title="IPTV Int Arabic",Sharjah TV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-international-sharjahtv-hsslive-25f-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Syria%20TV.png" group-title="IPTV International Arabic",Syria TV (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Syria%20TV.png" group-title="IPTV Int Arabic",Syria TV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-news-syriatv-hsslive-25f-SD
 
 		# Other
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Current%20Time.png" group-title="IPTV International Other",Current Time HD (720p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Current%20Time.png" group-title="IPTV Int Other",Current Time HD (720p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=CurrentTime_HD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Current%20Time.png" group-title="IPTV International Other",Current Time (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Current%20Time.png" group-title="IPTV Int Other",Current Time (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=CurrentTime_SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Euronews%20Russian.png" group-title="IPTV International Other",Euronews Russian (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Euronews%20Russian.png" group-title="IPTV Int Other",Euronews Russian (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=EuronewsRusLDAI_SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/France%2024%20HD%20en%20Francais.png" group-title="IPTV International Other",France 24 HD (en Francais) (720p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/France%2024%20HD%20en%20Francais.png" group-title="IPTV Int Other",France 24 HD (en Francais) (720p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=France24_HD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/France%2024%20en%20Francais.png" group-title="IPTV International Other",France 24 (en Francais) Cbx (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/France%2024%20en%20Francais.png" group-title="IPTV Int Other",France 24 (en Francais) Cbx (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=France24_SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/France%2024%20en%20Francais.png" group-title="IPTV International Other",France 24 (en Francais) VTV (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/France%2024%20en%20Francais.png" group-title="IPTV Int Other",France 24 (en Francais) VTV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-news-france24-hsslive-25f-4x3-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/France%2024%20in%20Arabic.png" group-title="IPTV International Other",France 24 HD (in Arabic) (720p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/France%2024%20in%20Arabic.png" group-title="IPTV Int Other",France 24 HD (in Arabic) (720p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=France24Arabic_HD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/France%2024%20in%20Arabic.png" group-title="IPTV International Other",France 24 (in Arabic) (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/France%2024%20in%20Arabic.png" group-title="IPTV Int Other",France 24 (in Arabic) (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=France24Arabic_SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Hellenic%20TV.png" group-title="IPTV International Other",Hellenic TV (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Hellenic%20TV.png" group-title="IPTV Int Other",Hellenic TV (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=Hellenic_SD
-#EXTINF:-1 tvg-id="" tvg-chno="793" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Iran%20International.png" group-title="IPTV International Other",Iran International (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="793" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Iran%20International.png" group-title="IPTV Int Other",Iran International (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-international-iranintl-SD
 
 	# Shopping
