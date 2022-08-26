@@ -53,7 +53,11 @@ http://cbxedge.synapsetv.com/picker/tsstreamer/?f=KaraokeLDAI_SD
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=NaturescapeLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Stingray%20Qello.png" group-title="IPTV Music",Stingray Qello (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=QelloLDAI_SD
-#EXTINF:-1 tvg-id="" tvg-chno="365" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Spotlight%20TV.png" group-title="IPTV Music",Spotlight TV (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="365" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Spotlight%20TV.png" group-title="IPTV Music",Spotlight TV HD (720p)
+http://cbxedge.synapsetv.com/picker/tsstreamer/?f=Spotlight_HD
+#EXTINF:-1 tvg-id="" tvg-chno="365" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Spotlight%20TV.png" group-title="IPTV Music",Spotlight TV Cbx (576p)
+http://cbxedge.synapsetv.com/picker/tsstreamer/?f=Spotlight_SD
+#EXTINF:-1 tvg-id="" tvg-chno="365" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Spotlight%20TV.png" group-title="IPTV Music",Spotlight TV VTV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-entertainment-spotlighttv-hsslive-25f-SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Trace%20Brazuca.png" group-title="IPTV Music",Trace Brazuca (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=TraceBrazukaLDAI_SD
