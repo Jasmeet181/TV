@@ -52,8 +52,6 @@ https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 #EXTINF:-1 tvg-id="More4UK.uk" tvg-chno="136" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/More4.png" group-title="IPTV Entertainment",More4 (576p)
 https://cdnuk001.broadcastcdn.net/KUK-MORE4/index.m3u8
-#EXTINF:-1 tvg-id="4Music.uk" tvg-chno="138" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/E4%20Extra.png" group-title="IPTV Entertainment",E4 Extra (576p)
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,4music-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/4music/&spotxc1=195996&spotxc2=190878
 #EXTINF:-1 tvg-id="FoodNetworkUK.uk" tvg-chno="140" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Food%20Network.png" group-title="IPTV Entertainment",Food Network (576p)
 https://cdnuk001.broadcastcdn.net/KUK-FOODNETWORK/index.m3u8
 #EXTINF:-1 tvg-id="5USA.uk" tvg-chno="141" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/5USA.png" group-title="IPTV Entertainment",5USA (576p)
@@ -339,10 +337,12 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?y
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="" tvg-chno="359" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Trace%20Hits.png" group-title="IPTV Music",Trace Hits (576p)
 https://cdnuk001.broadcastcdn.net/KUK-TRACEHITS/index.m3u8
-#EXTINF:-1 tvg-id="Now70s.uk" tvg-chno="361" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Now%2070s.png" group-title="IPTV Music",Now 70s (576p)
-https://cdnuk001.broadcastcdn.net/KUK-NOW70S/index.m3u8
-#EXTINF:-1 tvg-id="Now80s.uk" tvg-chno="362" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Now%2080s.png" group-title="IPTV Music",Now 80s (576p)
-https://cdnuk001.broadcastcdn.net/KUK-NOW80S/index.m3u8
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-chno="361" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Now%2070s.png" group-title="IPTV Music",Now 70s (720p)
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-chno="362" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Now%2080s.png" group-title="IPTV Music",Now 80s (720p)
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-chno="362" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Now%2090s.png" group-title="IPTV Music",Now 90s (720p)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SpotlightTV.uk" tvg-chno="365" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Spotlight%20TV.png" group-title="IPTV Music",Spotlight TV (720p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=Spotlight_HD
 
@@ -448,7 +448,7 @@ http://144.217.70.181:9587/hin2/B4UMUSIC/index.m3u8
 http://221.120.204.4:80/SONY-HD-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="704" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Utsav%20Bharat.png" group-title="IPTV Int Hindi",Utsav Bharat (720p)
 http://208.86.19.13:81/721.stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="705" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Utsav%20Plus%20HD.png" group-title="IPTV Int Hindi",Utsav Plus/Star Plus India (1080p)
+#EXTINF:-1 tvg-id="" tvg-chno="705" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Utsav%20Plus%20HD.png" group-title="IPTV Int Hindi",Utsav Plus/Star Plus India (720p)
 http://208.115.215.42/Utsav_Plus_UK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="706" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Colors%20HD.png" group-title="IPTV Int Hindi",Colors (720p)
 http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
@@ -462,11 +462,11 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://a.jsrdn.com/broadcast/b8d66d4726/-0100/c.m3u8
 #EXTINF:-1 tvg-id="Foodxp.uk" tvg-chno="712" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Foodxp.png" group-title="IPTV Int Hindi",Foodxp (576p)
 https://cdnuk001.broadcastcdn.net/KUK-FOODXP/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-chno="713" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Colors%20Rishtey.png" group-title="IPTV Int Hindi",Colors Rishtey India (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="713" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Colors%20Rishtey.png" group-title="IPTV Int Hindi",Colors Rishtey India (576p)
 http://103.179.246.243:8000/play/a03i
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-chno="714" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Colors%20Cineplex.png" group-title="IPTV Int Hindi",Colors Cineplex India (720p)
 http://tv.googledrivelinks.com:8088/live.php?c=Colors_Cineplex_HD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="715" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sony%20Max%20HD.png" group-title="IPTV Int Hindi",Sony Max HD India (1080p)
+#EXTINF:-1 tvg-id="" tvg-chno="715" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sony%20Max%20HD.png" group-title="IPTV Int Hindi",Sony Max India (1080p)
 http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="717" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/afc8ded72fe803bbc7064a7c472327597435edee/TV/.Light/Star%20Gold%20HD.png" group-title="IPTV Int Hindi",Star Gold India (720p)
 http://144.217.70.181:9587/hin2/STARGOLDUK/index.m3u8
@@ -549,8 +549,8 @@ https://stream.imagetv.in/hls/politicspunjab/index.m3u8
 
 		# Bengali
 
-#EXTINF:-1 tvg-id="" tvg-chno="777" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Channel%20S.png" group-title="IPTV Int Bengali",Channel S (576p)
-https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="777" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Channel%20S.png" group-title="IPTV Int Bengali",Channel S (720p)
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1 tvg-id="IqraBangla.uk" tvg-chno="778" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Iqra%20Bangla.png" group-title="IPTV Int Bengali",Iqra Bangla (720p)
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-chno="779" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ATN%20Bangla.png" group-title="IPTV Int Bengali",ATN Bangla (576p)
