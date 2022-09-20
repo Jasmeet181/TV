@@ -65,9 +65,6 @@ https://cdnuk001.broadcastcdn.net/KUK-DRAMA/index.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-QUESTTVHD/index.m3u8
 #EXTINF:-1 tvg-id="CBS.Reality.uk" tvg-chno="146" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/CBS%20Reality.png" group-title="IPTV Entertainment",CBS Reality (576p)
 https://cdnuk001.broadcastcdn.net/KUK-CBSREALITY/index.m3u8
-#EXTINF:-1 tvg-id="CBS.Drama.uk" tvg-chno="147" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/RealityXtra.png" group-title="IPTV Entertainment",RealityXtra (320p)
-#EXTVLCOPT:network-caching=1000
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=hls
 #EXTINF:-1 tvg-id="CBS.Justice.uk" tvg-chno="148" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Legend.png" group-title="IPTV Entertainment",Legend (576p)
 https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/index.m3u8
 #EXTINF:-1 tvg-id="Quest.Red.uk" tvg-chno="149" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Quest%20Red.png" group-title="IPTV Entertainment",Quest Red (576p)
@@ -84,9 +81,6 @@ https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/index.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-SONYENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.uk" tvg-chno="158" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/HGTV.png" group-title="IPTV Entertainment",HGTV (576i)
 http://87.212.248.44:60130/play/a04s
-#EXTINF:-1 tvg-id="Pick.uk" tvg-chno="159" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Pick.png" group-title="IPTV Entertainment",Pick (320p)
-#EXTVLCOPT:network-caching=1000
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/371?protocol=hls
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-chno="160" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Challenge.png" group-title="IPTV Entertainment",Challenge (576p)
 https://cdnuk001.broadcastcdn.net/KUK-CHALLENGE/index.m3u8
 #EXTINF:-1 tvg-id="INBC1500001SN" tvg-chno="162" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/.Light/Animal%20Planet%20HD.png" group-title="IPTV Entertainment",Animal Planet India (1080p)
@@ -135,19 +129,10 @@ https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/index.m3u8
 http://185.234.217.19:8012/play/a053
 #EXTINF:-1 tvg-id="Dave.ja.vu.uk" tvg-chno="211" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Dave%20ja%20vu.png" group-title="IPTV Entertainment",Dave ja vu (576p)
 https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/index.m3u8
-#EXTINF:-1 tvg-id="ITV2+1.uk" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ITV2%20Plus%201.png" group-title="IPTV Entertainment",ITV2 +1 (320p)
-#EXTVLCOPT:network-caching=1000
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?protocol=hls
 #EXTINF:-1 tvg-id="ITV3+1.uk" tvg-chno="219" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ITV3%20Plus%201.png" group-title="IPTV Entertainment",ITV3 +1 (576i)
 http://87.212.248.44:60130/play/a074
-#EXTINF:-1 tvg-id="ITV4+1.uk" tvg-chno="220" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ITV4%20Plus%201.png" group-title="IPTV Entertainment",ITV4 +1 (320p)
-#EXTVLCOPT:network-caching=1000
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826?protocol=hls
 #EXTINF:-1 tvg-id="5STAR+1.uk" tvg-shift="-1" tvg-chno="228" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/5Star%20Plus%201.png" group-title="IPTV Entertainment",5Star +1 (576p)
 http://185.234.217.19:8012/play/a052
-#EXTINF:-1 tvg-id="Food.Netwrk+1.uk" tvg-chno="240" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Food%20Network%20Plus%201.png" group-title="IPTV Entertainment",Food Network +1 (320p)
-#EXTVLCOPT:network-caching=1000
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1829?protocol=hls
 #EXTINF:-1 tvg-id="5USA+1.uk" tvg-shift="-1" tvg-chno="241" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/5USA%20Plus%201.png" group-title="IPTV Entertainment",5USA +1 (576p)
 http://185.234.217.19:8012/play/a04z
 #EXTINF:-1 tvg-id="Drama+1.uk" tvg-chno="243" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Drama%20Plus%201.png" group-title="IPTV Entertainment",Drama +1 (576p)
@@ -263,9 +248,6 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_no
 http://87.212.248.44:60130/play/a08p
 #EXTINF:-1 tvg-id="ITV.uk" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ITV.png" group-title="IPTV Entertainment",ITV Channel TV (576i)
 http://87.212.248.44:60130/play/a07d
-#EXTINF:-1 tvg-id="ITV.uk" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ITV.png" group-title="IPTV Entertainment",ITV London (320p)
-#EXTVLCOPT:network-caching=1000
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?protocol=hls
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/STV.png" group-title="IPTV Entertainment",STV Central East (576i)
 http://87.212.248.44:60130/play/a07i
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/STV%20HD.png" group-title="IPTV Entertainment",STV Central West (1080p)
@@ -603,8 +585,6 @@ https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203
 	
 #EXTINF:-1 tvg-id="Iran.Intl.HD.uk" tvg-chno="793" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Iran%20International%20HD.png" group-title="IPTV Int Other",Iran International (1080p)
 https://live.livetvstream.co.uk/LS-63503-3/index.m3u8
-#EXTINF:-1 tvg-id="196" group-title="TS Jio Entertainment" tvg-language="Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",Colors Gujarati
-https://snehapi-april.in1.bitmana.io/ziox/tszioxx/Colors_Gujarati/800.m3u8|user-agent="techiesneh"
 
 	# Shopping
 
