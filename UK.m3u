@@ -1,11 +1,11 @@
-﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_UK1.xml.gz,https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_IN4.xml.gz,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml"
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_UK1.xml.gz,https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_IN4.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 	# EPG
 		# https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_UK1.xml.gz
 		# https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_IE1.xml.gz
 		# https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_IN4.xml.gz
-		# https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml
-		# https://i.mjh.nz/PlutoTV/all.xml
-		# https://i.mjh.nz/SamsungTVPlus/all.xml
+		# https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz
+		# https://i.mjh.nz/PlutoTV/all.xml.gz
+		# https://i.mjh.nz/SamsungTVPlus/all.xml.gz
 
 	# Entertainment
 
@@ -35,8 +35,8 @@ https://cdnuk001.broadcastcdn.net/KUK-ITV3/index.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-ITV4/index.m3u8
 #EXTINF:-1 tvg-id="INBB2800007DA" tvg-chno="125" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Discovery%20HD.png" group-title="IPTV Entertainment",Discovery India (1080p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="5ca672f515a62078d2ec0ad2" tvg-chno="126" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="IPTV Entertainment",MTV Pluto TV (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-chno="126" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/MTV.png" group-title="IPTV Entertainment",MTV Europe (576p)
+http://85.11.144.9:4222/MTV?token=test
 #EXTINF:-1 tvg-id="5f99e24636d67d0007a94e6d" tvg-chno="127" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="IPTV Entertainment",Comedy Central Animation (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-chno="128" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/5Star.png" group-title="IPTV Entertainment",5Star (576p)
@@ -65,24 +65,34 @@ https://cdnuk001.broadcastcdn.net/KUK-DRAMA/index.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-QUESTTVHD/index.m3u8
 #EXTINF:-1 tvg-id="CBS.Reality.uk" tvg-chno="146" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/CBS%20Reality.png" group-title="IPTV Entertainment",CBS Reality (576p)
 https://cdnuk001.broadcastcdn.net/KUK-CBSREALITY/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Drama.uk" tvg-chno="147" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/RealityXtra.png" group-title="IPTV Entertainment",RealityXtra (320p)
+#EXTVLCOPT:network-caching=1000
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=hls
 #EXTINF:-1 tvg-id="CBS.Justice.uk" tvg-chno="148" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Legend.png" group-title="IPTV Entertainment",Legend (576p)
 https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/index.m3u8
 #EXTINF:-1 tvg-id="Quest.Red.uk" tvg-chno="149" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Quest%20Red.png" group-title="IPTV Entertainment",Quest Red (576p)
 https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/index.m3u8
 #EXTINF:-1 tvg-id="Paramount.uk" tvg-chno="150" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/5Action.png" group-title="IPTV Entertainment",5Action (576p)
 https://cdnuk001.broadcastcdn.net/KUK-PARAMOUNT/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="152" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/6f1af711911cbaeed4bfffb38adf563ee0aba68b/TV/.Light/Syfy.png" group-title="IPTV Entertainment",Syfy Latin America (1080p)
-http://190.83.119.67:8000/play/a0q3
+#EXTINF:-1 tvg-id="Pick.uk" tvg-chno="151" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Pick.png" group-title="IPTV Entertainment",Pick (320p)
+#EXTVLCOPT:network-caching=1000
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/371?protocol=hls
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-chno="152" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Challenge.png" group-title="IPTV Entertainment",Challenge (576p)
+https://cdnuk001.broadcastcdn.net/KUK-CHALLENGE/index.m3u8
 #EXTINF:-1 tvg-id="5SELECT.uk" tvg-chno="153" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/5Select.png" group-title="IPTV Entertainment",5Select (576p)
 https://cdnuk001.broadcastcdn.net/KUK-FIVESELECT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="154" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ID.png" group-title="IPTV Entertainment",Investigation Discovery USA (720p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium324/index.m3u8
 #EXTINF:-1 tvg-id="YESTERDAY.uk" tvg-chno="155" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Yesterday.png" group-title="IPTV Entertainment",Yesterday (576p)
 https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/index.m3u8
 #EXTINF:-1 tvg-id="GREAT!.tv.uk" tvg-chno="157" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Great%20TV.png" group-title="IPTV Entertainment",Great! TV (576p)
 https://cdnuk001.broadcastcdn.net/KUK-SONYENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.uk" tvg-chno="158" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/HGTV.png" group-title="IPTV Entertainment",HGTV (576i)
 http://87.212.248.44:60130/play/a04s
-#EXTINF:-1 tvg-id="Challenge.uk" tvg-chno="160" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Challenge.png" group-title="IPTV Entertainment",Challenge (576p)
-https://cdnuk001.broadcastcdn.net/KUK-CHALLENGE/index.m3u8
+#EXTINF:-1 tvg-id="159" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/E%20HD.png" group-title="IPTV Entertainment",E! East USA (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium315/index.m3u8
 #EXTINF:-1 tvg-id="INBC1500001SN" tvg-chno="162" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/.Light/Animal%20Planet%20HD.png" group-title="IPTV Entertainment",Animal Planet India (1080p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="BLAZE.uk" tvg-chno="164" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Blaze.png" group-title="IPTV Entertainment",Blaze (576p)
@@ -129,10 +139,19 @@ https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/index.m3u8
 http://185.234.217.19:8012/play/a053
 #EXTINF:-1 tvg-id="Dave.ja.vu.uk" tvg-chno="211" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Dave%20ja%20vu.png" group-title="IPTV Entertainment",Dave ja vu (576p)
 https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/index.m3u8
+#EXTINF:-1 tvg-id="ITV2+1.uk" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ITV2%20Plus%201.png" group-title="IPTV Entertainment",ITV2 +1 (320p)
+#EXTVLCOPT:network-caching=1000
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?protocol=hls
 #EXTINF:-1 tvg-id="ITV3+1.uk" tvg-chno="219" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ITV3%20Plus%201.png" group-title="IPTV Entertainment",ITV3 +1 (576i)
 http://87.212.248.44:60130/play/a074
+#EXTINF:-1 tvg-id="ITV4+1.uk" tvg-chno="220" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ITV4%20Plus%201.png" group-title="IPTV Entertainment",ITV4 +1 (320p)
+#EXTVLCOPT:network-caching=1000
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826?protocol=hls
 #EXTINF:-1 tvg-id="5STAR+1.uk" tvg-shift="-1" tvg-chno="228" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/5Star%20Plus%201.png" group-title="IPTV Entertainment",5Star +1 (576p)
 http://185.234.217.19:8012/play/a052
+#EXTINF:-1 tvg-id="Food.Netwrk+1.uk" tvg-chno="240" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Food%20Network%20Plus%201.png" group-title="IPTV Entertainment",Food Network +1 (320p)
+#EXTVLCOPT:network-caching=1000
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1829?protocol=hls
 #EXTINF:-1 tvg-id="5USA+1.uk" tvg-shift="-1" tvg-chno="241" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/5USA%20Plus%201.png" group-title="IPTV Entertainment",5USA +1 (576p)
 http://185.234.217.19:8012/play/a04z
 #EXTINF:-1 tvg-id="Drama+1.uk" tvg-chno="243" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Drama%20Plus%201.png" group-title="IPTV Entertainment",Drama +1 (576p)
@@ -248,6 +267,9 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_no
 http://87.212.248.44:60130/play/a08p
 #EXTINF:-1 tvg-id="ITV.uk" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ITV.png" group-title="IPTV Entertainment",ITV Channel TV (576i)
 http://87.212.248.44:60130/play/a07d
+#EXTINF:-1 tvg-id="ITV.uk" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ITV.png" group-title="IPTV Entertainment",ITV London (320p)
+#EXTVLCOPT:network-caching=1000
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?protocol=hls
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/STV.png" group-title="IPTV Entertainment",STV Central East (576i)
 http://87.212.248.44:60130/play/a07i
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/STV%20HD.png" group-title="IPTV Entertainment",STV Central West (1080p)
@@ -307,8 +329,6 @@ https://562fa254d4174f859af55df9d1168180.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-chno="313" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Film4.png" group-title="IPTV Movies",Film4 (576p)
 https://cdnuk001.broadcastcdn.net/KUK-FILM4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="315" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TCM_%28Latin_America%29.svg/revision/latest/scale-to-width-down/711?cb=20200823030607" group-title="IPTV Movies",TCM Latin America (480p)
-http://190.83.119.67:8000/play/a0ri
 #EXTINF:-1 tvg-id="horror.channel.uk" tvg-chno="317" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/HorrorXtra.png" group-title="IPTV Movies",HorrorXtra (576p)
 https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="horror.ch+1.uk" tvg-shift="-1" tvg-chno="318" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/HorrorXtra%20Plus%201.png" group-title="IPTV Movies",HorrorXtra +1 (576i)
@@ -325,6 +345,8 @@ http://87.212.248.44:60130/play/a08d
 https://cdnuk001.broadcastcdn.net/KUK-SONYACTION/index.m3u8
 #EXTINF:-1 tvg-id="GREAT!.movies.action.uk" tvg-shift="-1" tvg-chno="324" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Great%20Movies%20Action%20Plus%201.png" group-title="IPTV Movies",Great! Movies Action +1 (576i)
 http://87.212.248.44:60130/play/a08f
+#EXTINF:-1 tvg-id="ROK.uk" tvg-chno="329" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Rok.png" group-title="IPTV Movies",Rok (576p)
+http://s.2-t.uk/service-13
 
 	# Music
 
@@ -355,10 +377,71 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 	# Sports
 
-#EXTINF:-1 tvg-id="INBC1500008UJ" tvg-chno="410" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/42/INBC1500009OF_20220427T054754.png" group-title="IPTV Sports",Eurosport India (1080p)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-chno="401" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Main%20Event%20HD.png" group-title="IPTV Sports",Sky Sports Main Event (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium38/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-chno="402" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Premier%20League%20HD.png" group-title="IPTV Sports",Sky Sports Premier League (720p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium130/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F&apos;ball.HD.uk" tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Football%20HD.png" group-title="IPTV Sports",Sky Sports Football (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium35/index.m3u8
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-chno="404" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Cricket%20HD.png" group-title="IPTV Sports",Sky Sports Cricket (720p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium65/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-chno="405" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Golf%20HD.png" group-title="IPTV Sports",Sky Sports Golf (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium70/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-chno="406" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20F1%20HD.png" group-title="IPTV Sports",Sky Sports F1 (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium60/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.NFL.HD.uk" tvg-chno="407" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Action%20HD.png" group-title="IPTV Sports",Sky Sports Action (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium37/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-chno="408" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Arena%20HD.png" group-title="IPTV Sports",Sky Sports Arena (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium36/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-chno="409" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20News%20HD.png" group-title="IPTV Sports",Sky Sports News (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium366/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-chno="410" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Eurosport%201%20HD.png" group-title="IPTV Sports",Eurosport 1 (720p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium41/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-chno="411" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Eurosport%202%20HD.png" group-title="IPTV Sports",Eurosport 2 (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium42/index.m3u8
+#EXTINF:-1 tvg-id="Premier.1.HD.uk" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Premier%20Sports%201%20HD.png" group-title="IPTV Sports",Premier Sports 1 (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium451/index.m3u8
+#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-chno="413" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/BT%20Sport%201%20HD.png" group-title="IPTV Sports",BT Sport 1 (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium31/index.m3u8
+#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-chno="414" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/BT%20Sport%202%20HD.png" group-title="IPTV Sports",BT Sport 2 (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium32/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-chno="415" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Racing%20HD.png" group-title="IPTV Sports",Sky Sports Racing (720p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium554/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-chno="416" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Mix%20HD.png" group-title="IPTV Sports",Sky Sports Mix (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium449/index.m3u8
+#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-chno="417" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/BT%20Sport%203%20HD.png" group-title="IPTV Sports",BT Sport 3 (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium33/index.m3u8
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-chno="418" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/MUTV%20HD.png" group-title="IPTV Sports",MUTV (720p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium377/index.m3u8
+#EXTINF:-1 tvg-id="Premier.2.HD.uk" tvg-chno="421" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Premier%20Sports%202%20HD.png" group-title="IPTV Sports",Premier Sports 2 (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium550/index.m3u8
 #EXTINF:-1 tvg-id="FreeSports.HD.uk" tvg-chno="422" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/FreeSports%20HD.png" group-title="IPTV Sports",Freesports (1080p)
 https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
+#EXTINF:-1 tvg-id="BT.Sport.4.HD.uk" tvg-chno="423" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/BT%20Sport%204%20HD.png" group-title="IPTV Sports",BT Sport 4 (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium34/index.m3u8
+#EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-chno="426" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Racing%20TV%20HD.png" group-title="IPTV Sports",Racing TV (1080p)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ad2017.vhls.ru.com/lb/premium555/index.m3u8
 #EXTINF:-1 tvg-id="GINXeSportsTV.uk" tvg-chno="433" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Ginx%20eSports%20TV.png" group-title="IPTV Sports",Ginx eSports TV (576p)
 http://45.92.69.70:8000/play/a03n
 #EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-chno="437" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/SportyStuff%20TV.png" group-title="IPTV Sports",SportyStuff TV (720p)
@@ -411,9 +494,7 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
 
 	# Kids
-	
-#EXTINF:-1 tvg-id="Cartoon.Network.HD+.in" tvg-chno="601" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Cartoon%20Network%20HD.png" group-title="IPTV Kids",Cartoon Network HD+ India (1080p)
-http://jupiter.bdcabletv.com/C-N/video.m3u8
+
 #EXTINF:-1 tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-chno="604" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="IPTV Kids",Nick Pluto TV (720p)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&ads.coppa=1
 #EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" tvg-chno="606" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="IPTV Kids",Nick Jr. Pluto TV (720p)
@@ -453,12 +534,12 @@ http://208.86.19.13:81/831.stream/index.m3u8
 http://208.86.19.13:81/833.stream/index.m3u8
 #EXTINF:-1 tvg-id="SET.HD.in" tvg-chno="703" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sony%20Entertainment%20Television%20HD.png" group-title="IPTV Int Hindi",Sony TV India (1080p)
 http://103.162.136.235:4500/play/a00g
-#EXTINF:-1 tvg-id="Star.Bharat.HD.in" tvg-chno="704" tvg-logo="https://d2sqx12cok5m5h.cloudfront.net/Channellogos/160x90/Star_Bharat_HD.png" group-title="IPTV Int Hindi",Star Bharat India (1080p)
-http://103.162.136.235:4500/play/a00p
-#EXTINF:-1 tvg-id="Star.Plus.HD.uk" tvg-chno="705" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/afc8ded72fe803bbc7064a7c472327597435edee/TV/.Light/Star%20Plus%20HD.png" group-title="IPTV Int Hindi",Star Plus India (1080p)
+#EXTINF:-1 tvg-id="Star.Bharat.uk" tvg-chno="704" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Utsav%20Bharat.png" group-title="IPTV Int Hindi",Utsav Bharat (720p)
+http://208.86.19.13:81/721.stream/index.m3u8
+#EXTINF:-1 tvg-id="STAR.Plus.HD.in" tvg-chno="705" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/afc8ded72fe803bbc7064a7c472327597435edee/TV/.Light/Star%20Plus%20HD.png" group-title="IPTV Int Hindi",Star Plus India (1080p)
 http://103.162.136.235:4500/play/a00d
 #EXTINF:-1 tvg-id="Colors.HD.in" tvg-chno="706" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Colors%20HD.png" group-title="IPTV Int Hindi",Colors India (1080p)
-http://208.86.19.13:81/605.stream/index.m3u8
+http://103.99.249.107:81/play/a00v
 #EXTINF:-1 tvg-id="Zee.Cinema.HD.in" tvg-chno="707" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/afc8ded72fe803bbc7064a7c472327597435edee/TV/.Light/Zee%20Cinema%20HD.png" group-title="IPTV Int Hindi",Zee Cinema India (1080p)
 http://103.162.136.235:4500/play/a00h
 #EXTINF:-1 tvg-id="Zee.TV.HD.in" tvg-chno="709" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Zee%20TV.png" group-title="IPTV Int Hindi",Zee TV India (1080p)
@@ -470,13 +551,13 @@ https://a.jsrdn.com/broadcast/b8d66d4726/-0100/c.m3u8
 #EXTINF:-1 tvg-id="Foodxp.uk" tvg-chno="712" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Foodxp.png" group-title="IPTV Int Hindi",Foodxp (576p)
 https://cdnuk001.broadcastcdn.net/KUK-FOODXP/index.m3u8
 #EXTINF:-1 tvg-id="Colors.Cineplex.in" tvg-chno="714" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Colors%20Cineplex.png" group-title="IPTV Int Hindi",Colors Cineplex India (576p)
-http://103.179.246.243:8000/play/a00p
+http://103.166.102.58:8000/play/a04h
 #EXTINF:-1 tvg-id="SONY.MAX.HD.in" tvg-chno="715" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sony%20Max%20HD.png" group-title="IPTV Int Hindi",Sony Max India (1080p)
-http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
+http://103.162.136.235:4500/play/a01b
 #EXTINF:-1 tvg-id="Star.GOLD.HD.in" tvg-chno="717" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/afc8ded72fe803bbc7064a7c472327597435edee/TV/.Light/Star%20Gold%20HD.png" group-title="IPTV Int Hindi",Star Gold India (1080p)
-http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
+http://103.162.136.235:4500/play/a00j
 #EXTINF:-1 tvg-id="SONY.SAB.HD.in" tvg-chno="718" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sony%20Sab.png" group-title="IPTV Int Hindi",Sony SAB India (1080p)
-http://103.162.136.235:4500/play/a00t/index.m3u8
+http://103.162.136.235:4500/play/a00t
 #EXTINF:-1 tvg-id="Sanskar.uk" tvg-chno="725" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sanskar%20TV.png" group-title="IPTV Int Hindi",Sanskar TV (720p)
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
 
@@ -588,8 +669,8 @@ https://live.livetvstream.co.uk/LS-63503-3/index.m3u8
 
 	# Shopping
 
-#EXTINF:-1 tvg-id="QVC.uk" tvg-chno="660" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/QVC.png" group-title="IPTV Shopping",QVC (540p)
-https://live-qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="QVC.uk" tvg-chno="660" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/QVC.png" group-title="IPTV Shopping",QVC (576p)
+https://cdnuk001.broadcastcdn.net/KUK-QVC/index.m3u8
 #EXTINF:-1 tvg-id="JML.Direct.uk" tvg-chno="661" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/JML%20Direct.png" group-title="IPTV Shopping",JML Direct (576p)
 https://tvmall.sechls01.visionip.tv/live/visiontvuk-tvmall-jml-hsslive-25f-16x9-SD/playlist.m3u8
 #EXTINF:-1 tvg-id="TJC.uk" tvg-chno="662" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/TJC.png" group-title="IPTV Shopping",TJC (1080p)
@@ -650,8 +731,7 @@ http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-religion-goodnewstv-
 #EXTINF:-1 tvg-id="Dunamis.TV.uk" tvg-chno="592" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Dunamis%20TV.png" group-title="IPTV Religion",Dunamis TV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-religion-dunamistv-SD
 #EXTINF:-1 tvg-id="SonLife.uk" tvg-chno="593" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/SBN%20International.png" group-title="IPTV Religion",SBN International (720p)
-#EXTVLCOPT:http-referrer=https://watch.sonlifetv.com/videos/international-english
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/29151850/events/9385268/player
+http://s.2-t.uk/sonlife
 #EXTINF:-1 tvg-id="" tvg-chno="594" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/New%20Media%20TV%20UK.png" group-title="IPTV Religion",New Media TV UK (1080p)
 https://stream.newmediatvuk.com/abr_live/play/playlist.m3u8
 
@@ -665,5 +745,5 @@ http://cbxedge.synapsetv.com/picker/tsstreamer/?f=CelebrationTV_HD
 #EXTINF:-1 tvg-id="Xpanded.TV.uk" tvg-chno="902" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Xpanded%20TV.png" group-title="IPTV Adult",Xpanded TV (404p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://vod2t.xpanded.com/x3tv/index_wlan.m3u8
-#EXTINF:-1 tvg-id="Babenation.uk" tvg-chno="906" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Babenation.png" group-title="IPTV Adult",Babenation (576p)
+#EXTINF:-1 tvg-id="Babenation.uk" tvg-chno="904" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Babenation.png" group-title="IPTV Adult",Babenation (576p)
 https://gpuserver003.broadcastcdn.net/KUK-BABENATION/index.m3u8
