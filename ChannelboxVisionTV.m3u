@@ -86,6 +86,8 @@ https://sports.sechls01.visionip.tv/live/visiontvuk-sports-eSports24tv-SD/playli
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=ExtremePlusLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Fuel%20TV.png" group-title="IPTV Sports",Fuel TV (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=FuelLDAI_SD
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Go%20Live%20Sports%20Cast.png" group-title="IPTV Sports",Go Live Sports Cast (576p)
+http://cbxedge.synapsetv.com/picker/tsstreamer/?f=GoLiveSportsLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/MMA-TV.com.png" group-title="IPTV Sports",MMA-TV.com (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=MMALDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sports%20Tonight%20Live.png" group-title="IPTV Sports",Sports Tonight Live (576p)

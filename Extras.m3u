@@ -262,11 +262,11 @@ https://did04mu4z77ga.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Star.Plus.HD.uk" tvg-chno="705" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Utsav%20Plus%20HD.png" group-title="IPTV Int Hindi",Utsav Plus (720p)
 http://208.115.215.42/Utsav_Plus_UK/index.m3u8
 #EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-chno="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="IPTV Int Hindi",&Flix (1080p)
-http://103.179.246.243:8000/play/a00p
+http://103.99.249.107:81/play/a00x
 #EXTINF:-1 tvg-id="And.pictures.HD.in" tvg-chno="" tvg-logo="https://i.pinimg.com/originals/18/b9/4b/18b94b1b02e8939eb2b8d81fc24b3eb5.png" group-title="IPTV Int Hindi",&Pictures (1080p)
-http://103.162.136.235:4500/play/a00n
+http://103.99.249.107:81/play/a01c
 #EXTINF:-1 tvg-id="and.tv.HD.in" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/1257892c72251a43cf114b9e60d6ac271706b7dd/Future/AndTV%20HD.png" group-title="IPTV Int Hindi",&TV (1080p)
-http://103.162.136.235:4500/play/a00u
+http://103.166.102.58:8000/play/a01u
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/9xm_blue.svg/revision/latest/scale-to-width-down/711?cb=20210508163726" group-title="IPTV Int Hindi",9XM (480p)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="ABP.News.in" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/ABP_News.svg/revision/latest/scale-to-height-down/450?cb=20201222100643" group-title="IPTV Int Hindi",ABP News (720p)
@@ -370,12 +370,12 @@ http://akalmultimedia.net:1935/gdnslive/gdns-live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i0.wp.com/www.aftvnews.com/content/products/B077SNMDXS.png" group-title="IPTV Int Punjabi",Global Punjab TV (720p)
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://a.jsrdn.com/hls/23014/gurkibani-tv/logo_20220207_220140_68.png" group-title="IPTV Int Punjabi",Gurkibani TV (1080p)
-https://dai.google.com/linear/hls/event/VYjGGQs4SuGBQcQo5tIexQ/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gurkibani-tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wixstatic.com/media/61a9a3_0011a6336f2646baa45375ee36f6b696~mv2.png" group-title="IPTV Int Punjabi",Hamdard TV (1080p)
 https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.imgur.com/RPRT3Zq.png" group-title="IPTV Int Punjabi",Hungama Bol Hadippa (1080p)
 https://live.hungama.com/linear/bol-hadippa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://dashboard.newsx.com/wp-content/themes/newsxlite/images/PUNJAB_HIMACHAL_LOGO_300x150.png" group-title="IPTV Int Punjabi",India News Punjab (360p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-274/channel_list/indianewspunjabhimachal1170c83368ea85274c9984dfbb31a8d9619b.png" group-title="IPTV Int Punjabi",India News Punjab-Himachal (360p)
 https://itvoign.multitvsolution.com/hls/punjab.m3u8
 #EXTINF:-1 tvg-id="Living.India.News.in" tvg-chno="" tvg-logo="https://livingindianews.co.in/assets/images/livingindainews200x200.jpeg" group-title="IPTV Int Punjabi",Living India News (360p)
 https://livelegitpro.in/hls14/livingindia/index.m3u8

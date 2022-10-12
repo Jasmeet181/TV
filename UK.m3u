@@ -42,7 +42,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-chno="128" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/5Star.png" group-title="IPTV Entertainment",5Star (576p)
 https://cdnuk001.broadcastcdn.net/KUK-5STAR/index.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.HD.in" tvg-chno="129" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/National%20Geographic%20HD.png" group-title="IPTV Entertainment",National Geographic India (1080p)
-http://103.162.136.235:4500/play/a007
+http://103.99.249.107:81/play/a00n
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-chno="131" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ITVBe.png" group-title="IPTV Entertainment",ITVBe (576p)
 https://cdnuk001.broadcastcdn.net/KUK-ITVBE/index.m3u8
 #EXTINF:-1 tvg-id="INBC15000035H" tvg-chno="133" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/TLC%20HD.png" group-title="IPTV Entertainment",TLC India (1080p)
@@ -98,9 +98,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-s
 #EXTINF:-1 tvg-id="BLAZE.uk" tvg-chno="164" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Blaze.png" group-title="IPTV Entertainment",Blaze (576p)
 https://cdnuk001.broadcastcdn.net/KUK-BLAZE/index.m3u8
 #EXTINF:-1 tvg-id="Nat.Geo.Wild.in" tvg-chno="165" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/National%20Geographic%20Wild.png" group-title="IPTV Entertainment",National Geographic Wild India (1080p)
-http://103.162.136.235:4500/play/a01c
+http://103.99.249.107:81/play/a008
 #EXTINF:-1 tvg-id="Discovery.Science.in" tvg-chno="167" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Discovery%20Science.png" group-title="IPTV Entertainment",Discovery Science India (576p)
-http://103.179.246.243:8000/play/a01k
+http://103.99.249.107:81/play/a01u
 #EXTINF:-1 tvg-id="BBC.ALBA.uk" tvg-chno="169" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/BBC%20Alba.png" group-title="IPTV Entertainment",BBC Alba (540p)
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1 tvg-id="Together.uk" tvg-chno="170" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Together%20TV.png" group-title="IPTV Entertainment",Together TV (1080p)
@@ -533,17 +533,17 @@ http://208.86.19.13:81/831.stream/index.m3u8
 #EXTINF:-1 tvg-id="B4U.Music.in" tvg-chno="702" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/B4U%20Music.png" group-title="IPTV Int Hindi",B4U Music India (576p)
 http://208.86.19.13:81/833.stream/index.m3u8
 #EXTINF:-1 tvg-id="SET.HD.in" tvg-chno="703" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sony%20Entertainment%20Television%20HD.png" group-title="IPTV Int Hindi",Sony TV India (1080p)
-http://103.162.136.235:4500/play/a00g
+http://103.99.249.107:81/play/a00w
 #EXTINF:-1 tvg-id="Star.Bharat.uk" tvg-chno="704" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Utsav%20Bharat.png" group-title="IPTV Int Hindi",Utsav Bharat (720p)
 http://208.86.19.13:81/721.stream/index.m3u8
 #EXTINF:-1 tvg-id="STAR.Plus.HD.in" tvg-chno="705" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/afc8ded72fe803bbc7064a7c472327597435edee/TV/.Light/Star%20Plus%20HD.png" group-title="IPTV Int Hindi",Star Plus India (1080p)
-http://103.162.136.235:4500/play/a00d
+http://103.99.249.107:81/play/a00t
 #EXTINF:-1 tvg-id="Colors.HD.in" tvg-chno="706" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Colors%20HD.png" group-title="IPTV Int Hindi",Colors India (1080p)
 http://103.99.249.107:81/play/a00v
 #EXTINF:-1 tvg-id="Zee.Cinema.HD.in" tvg-chno="707" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/afc8ded72fe803bbc7064a7c472327597435edee/TV/.Light/Zee%20Cinema%20HD.png" group-title="IPTV Int Hindi",Zee Cinema India (1080p)
-http://103.162.136.235:4500/play/a00h
+http://103.99.249.107:81/play/a014
 #EXTINF:-1 tvg-id="Zee.TV.HD.in" tvg-chno="709" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Zee%20TV.png" group-title="IPTV Int Hindi",Zee TV India (1080p)
-http://103.162.136.235:4500/play/a00e
+http://103.99.249.107:81/play/a00u
 #EXTINF:-1 tvg-id="Aaj.Tak.HD.in" tvg-chno="710" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Aaj%20Tak.png" group-title="IPTV Int Hindi",Aaj Tak India (720p)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="MATV.National.uk" tvg-chno="711" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/MATV%20National.png" group-title="IPTV Int Hindi",MATV (720p)
@@ -553,11 +553,13 @@ https://cdnuk001.broadcastcdn.net/KUK-FOODXP/index.m3u8
 #EXTINF:-1 tvg-id="Colors.Cineplex.in" tvg-chno="714" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Colors%20Cineplex.png" group-title="IPTV Int Hindi",Colors Cineplex India (576p)
 http://103.166.102.58:8000/play/a04h
 #EXTINF:-1 tvg-id="SONY.MAX.HD.in" tvg-chno="715" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sony%20Max%20HD.png" group-title="IPTV Int Hindi",Sony Max India (1080p)
-http://103.162.136.235:4500/play/a01b
+http://103.99.249.107:81/play/a009
 #EXTINF:-1 tvg-id="Star.GOLD.HD.in" tvg-chno="717" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/afc8ded72fe803bbc7064a7c472327597435edee/TV/.Light/Star%20Gold%20HD.png" group-title="IPTV Int Hindi",Star Gold India (1080p)
-http://103.162.136.235:4500/play/a00j
-#EXTINF:-1 tvg-id="SONY.SAB.HD.in" tvg-chno="718" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sony%20Sab.png" group-title="IPTV Int Hindi",Sony SAB India (1080p)
-http://103.162.136.235:4500/play/a00t
+http://103.99.249.107:81/play/a016
+#EXTINF:-1 tvg-id="SONY.SAB.HD.in" tvg-chno="718" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sony%20Sab.png" group-title="IPTV Int Hindi",Sony SAB India (576p)
+http://208.86.19.13:81/702.stream/index.m3u8
+#EXTINF:-1 tvg-id="SONY.MAX.2.in" tvg-chno="720" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sony%20Max%202.png" group-title="IPTV Int Hindi",Sony Max 2 India (576p)
+http://103.99.249.107:81/play/a01x
 #EXTINF:-1 tvg-id="Sanskar.uk" tvg-chno="725" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sanskar%20TV.png" group-title="IPTV Int Hindi",Sanskar TV (720p)
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
 
@@ -706,6 +708,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVCru
 
 	# Religion
 
+#EXTINF:-1 tvg-id="God.TV.in" tvg-chno="580" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/God%20TV.png" group-title="IPTV Religion",God TV Aaia (576p)
+#EXTVLCOPT:network-caching=1000
+https://tv.googledrivelinks.com:443/autoq.php?c=God_TV
 #EXTINF:-1 tvg-id="revelation.uk" tvg-chno="581" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Revelation%20TV.png" group-title="IPTV Religion",Revelation TV (576p)
 https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TBN.UK.uk" tvg-chno="582" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/TBN%20UK.png" group-title="IPTV Religion",TBN UK (1080p)
