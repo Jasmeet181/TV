@@ -655,6 +655,9 @@ https://live.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="783" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Deen%20TV.png" group-title="IPTV Int Bengali",Deen TV (576p)
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="784" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Islam%20Channel%20Bangla.png" group-title="IPTV Int Bengali",Islam Channel Bangla (576p)
+#EXTVLCOPT:http-referrer=https://iframe.anystream.uk/
+https://cdn5.iqsat.net/iqb/d461253dfbeb618687fc3ede2ec11cd3.sdp/playlist.m3u8
 
 		# Arabic
 
