@@ -33,6 +33,8 @@ http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-entertainment-propel
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=SacredSitesLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="183" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Thats%20TV.png" group-title="IPTV Entertainment",That's TV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-entertainment-thatstv-SD
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/The%20Pet%20Collective.png" group-title="IPTV Entertainment",The Pet Collective (576p)
+http://cbxedge.synapsetv.com/picker/tsstreamer/?f=PetCollectiveLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Twisted%20Mirror%20TV.png" group-title="IPTV Entertainment",Twisted Mirror TV (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=TwistedMirrorLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="193" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Vox%20Africa.png" group-title="IPTV Entertainment",Vox Africa (576p)
