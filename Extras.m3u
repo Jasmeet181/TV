@@ -27,6 +27,8 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://ad2017.vhls.ru.com/lb/premium310/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Court%20TV.png" group-title="IPTV Entertainment",Court TV USA (1080p)
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel%28courttv%29/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/EarthxTV.png" group-title="IPTV Entertainment",EarthxTV USA (720p)
+https://ov.ottera.tv/live/master.m3u8?channel=earth_et
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-it-logos/master/TV/.Light/Fashion%20TV%20UHD.png" group-title="IPTV Entertainment",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Freeform_2022.svg/revision/latest/scale-to-width-down/800?cb=20220902203358" group-title="IPTV Entertainment",Freefrom (720p)
@@ -54,6 +56,8 @@ https://endpnt.com/hls/nasa4k60/playlist.m3u8
 https://5591df34695b4451a3a21e0fecb11830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_PlanetKnowledge/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Smithsonian%20Channel%20HD.png" group-title="IPTV Entertainment",Smithsonian Channel Australia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/6f1af711911cbaeed4bfffb38adf563ee0aba68b/TV/.Light/Syfy%20HD.png" group-title="IPTV Entertainment",Syfy East (1080p)
+http://89.187.175.143:80/3105/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/TBS.png" group-title="IPTV Entertainment",TBS East (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://ad2017.vhls.ru.com/lb/premium336/index.m3u8
@@ -109,7 +113,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/.Light/MTV%2000s.png" group-title="IPTV Music",MTV 00s Europe (576p)
 http://85.11.144.9:4222/VH1?token=test
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Music%20and%20Memories%20TV.png" group-title="IPTV Music",Music & Memories TV (1080p)
-https://stream.mux.com/9ugneK2a2UtjQ8CHidiS3QEHSIEaOGDJ.m3u8
+https://edge-fast2.evrideo.tv/51da5aca-56ff-4735-bde8-b75d2ae4d9b9_0_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-chno=" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/47f064af019df131293d53dbde9d50cdbc1e185b/TV/.Light/Trace%20Latina.png" group-title="IPTV Music",Trace Latina (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="GBBC900001SC" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/afc8ded72fe803bbc7064a7c472327597435edee/TV/.Light/Trace%20Urban.png" group-title="IPTV Music",Trace Urban (1080p)
@@ -285,8 +289,6 @@ https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/p
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/DD-Kishan_Logo.png/revision/latest/scale-to-height-down/450?cb=20160805131037" group-title="IPTV Int Hindi",DD Kisan (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnDfmcUyhgJp6xC1LmBLfUg/live
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Dd_national_New_Logos.png" group-title="IPTV Int Hindi",DD National (720p)
-http://iamsomx.herokuapp.com/zee5.php?id=0-9-250
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Dd_national_New_Logos.png" group-title="IPTV Int Hindi",DD National (480p)
 https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/934700/assetType/media/assetFileId/15074548/contextType/PLAYBACK/isAltUrl/False/ks/djJ8NDg3fIZbQL8RDGvI46D8Be04c3G3Qu5CpWmmVQ-ZXo1MUR7LRhJFAG6vozaM0ge6ZKFAo8-gHmGr02RYu9GpCvAicGvLto51-vNz2E4swWCECj48V3kQKdmDYn0C6oJyc2siTG-7yi99fvCAwm6_OvF5jL62fSP8XSBqHKIHOSqMn0iFsV-uExs1JqrbRXjhiPSpK00rSMQbYulMLJTg8yt2Rp0rkxiSVCjvblTTa-ZRbi3oeLGh1NZOvm6N35WuZae_8sjL2vZPaqdWn6zkK8aHO9QEk4KvA78-qdKIAU02M2KfkzcOi8xDAE6YLMNqBMTo5YJFGTjNOyVrTXDDyMN5yHBjXKSNErK1yq44aDcAU3ExasnFTcirtNkx2X1oQG2rntTDnXwO4DWGy0Tvfd_Cv4wB4aBFagFrecP8eFuniFr3/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/DD_News_HD.jpg/revision/latest?cb=20190103110635" group-title="IPTV Int Hindi",DD News (1080p)
@@ -364,8 +366,6 @@ https://dai.google.com/linear/hls/event/Xsz6fkDnQHO7twAdgP3l9w/master.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.imgur.com/g8VsoFL.png" group-title="IPTV Int Punjabi",Channel Y (720p)
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DD.Punjabi.in" tvg-chno="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_864/LANDSCAPE_43/FPaj9NUt.png" group-title="IPTV Int Punjabi",DD Punjabi (576p)
-http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddpunjabi
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.corecommunique.com/wp-content/uploads/2016/04/desi-channel-logo-copy.png" group-title="IPTV Int Punjabi",Desi Channel (720p)
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://play-lh.googleusercontent.com/AA1e2N9ElbRMZnZtPJnRJyEOjz82HqCk_mnaSZ5bY4LiiCeeePodMmVlkwuaVYgVYA" group-title="IPTV Int Punjabi",Fateh TV (720p)
@@ -384,10 +384,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.imgur.com/RPRT3Zq.png" group-title="IPTV Int Punjabi",Hungama Bol Hadippa (1080p)
 https://live.hungama.com/linear/bol-hadippa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-274/channel_list/indianewspunjabhimachal1170c83368ea85274c9984dfbb31a8d9619b.png" group-title="IPTV Int Punjabi",India News Punjab-Himachal (576p)
-http://iamsomx.herokuapp.com/zee5.php?id=0-9-274
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-274/channel_list/indianewspunjabhimachal1170c83368ea85274c9984dfbb31a8d9619b.png" group-title="IPTV Int Punjabi",India News Punjab-Himachal (360p)
-https://itvoign.multitvsolution.com/hls/punjab.m3u8
 #EXTINF:-1 tvg-id="Living.India.News.in" tvg-chno="" tvg-logo="https://livingindianews.co.in/assets/images/livingindainews200x200.jpeg" group-title="IPTV Int Punjabi",Living India News (360p)
 https://livelegitpro.in/hls14/livingindia/index.m3u8
 #EXTINF:-1 tvg-id="MH.One.in" tvg-chno="" tvg-logo="https://shubhstar.com/wp-content/uploads/2022/01/Mh1-copy.png" group-title="IPTV Int Punjabi",MH One (360p)
@@ -404,17 +400,17 @@ https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="http://store-images.s-microsoft.com/image/apps.58328.13510798887967581.3c7aabe3-b3ad-46b3-926c-709b64597493.6f777419-5a42-46c6-a140-aa2fe416b561" group-title="IPTV Int Punjabi",Prime Asia (720p)
 http://primeasia.dyndns.tv/Live_720p_Web/index.m3u8
 #EXTINF:-1 tvg-id="PTC.Chak.De.in" tvg-chno="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Chak-De-1.png" group-title="IPTV Int Punjabi",PTC Chak De (720p)
-https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w372446408_b1396000_sleng.m3u8
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w301084670_b446000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/DHOL-TV.png" group-title="IPTV Int Punjabi",PTC Dhol (720p)
-https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/chunklist_w2026403843_b1396000_sleng.m3u8
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/chunklist_w679327151_b446000_sleng.m3u8
 #EXTINF:-1 tvg-id="PTC.Music.in" tvg-chno="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Music-1.png" group-title="IPTV Int Punjabi",PTC Music (720p)
-https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/chunklist_w1339824830_b1396000_sleng.m3u8
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/chunklist_w2045299201_b446000_sleng.m3u8
 #EXTINF:-1 tvg-id="PTC.News.in" tvg-chno="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTCNews.png" group-title="IPTV Int Punjabi",PTC News (720p)
-https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w1419171339_b446000_sleng.m3u8
 #EXTINF:-1 tvg-id="PTC.Punjabi.Gold.in" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ptc_Punjabi_Gold.jpeg" group-title="IPTV Int Punjabi",PTC Punjabi Gold (720p)
-https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w652246613_b446000_sleng.m3u8
 #EXTINF:-1 tvg-id="PTC.Simran.in" tvg-chno="" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/channel/landscape/132x99/EGLsv35K.png" group-title="IPTV Int Punjabi",PTC Simran (720p)
-https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/chunklist_w993821857_b1396000_sleng.m3u8
+https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/chunklist_w1392549187_b446000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="http://www.ptn24.com/wp-content/themes/streaminfo/images/logo.png" group-title="IPTV Int Punjabi",PTN 24 (720p)
 http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/d6/df/7d/d6df7de1-a1a2-9af2-b93b-e9d75ded5756/AppIcon-0-1x_U007emarketing-0-85-220-0-6.png/1024x1024bb.png" group-title="IPTV Int Punjabi",Punjabi Zindabad (720p)
@@ -447,7 +443,7 @@ https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_ara
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Rotana%20Cinema.png" group-title="IPTV Int Arabic",Rotana Cinema (1080p)
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Rotana%20Classic.png" group-title="IPTV Int Arabic",Rotana Classic (1080p)
-https://dai.google.com/linear/hls/pa/event/0tkMWr6yRQiPO4uXSLCpLA/stream/72696f7f-c2ef-403d-8379-c464f9982ef2:GRQ/master.m3u8
+https://dai.google.com/linear/hls/pa/event/0tkMWr6yRQiPO4uXSLCpLA/stream/93e95798-5f06-4c39-a79f-809b2966fae0:BRU/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/54cb044b04cc4f17899b91378e167e8dee188df8/TV/.Light/Rotana%20Khalijiah.png" group-title="IPTV Int Arabic",Rotana Khalijiah (1080p)
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sharjah%20TV.png" group-title="IPTV Int Arabic",Sharjah TV (576p)
@@ -490,4 +486,4 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Sonli
 
 #EXTINF:-1 tvg-id="" tvg-chno="" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/1e3c9aed766bc7a05cedc0478772fa9a7506e0c4/TV/Simple200/Xpanded%20TV2.png" group-title="IPTV Adult",Xpanded TV 2 (404p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://vod2t.xpanded.com/x3tv2/index_wlan.m3u8
+https://vod2t.xpanded.com/x3tv2hq/index_wlan.m3u8
