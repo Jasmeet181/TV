@@ -79,7 +79,7 @@ http://194.76.186.55:8888/udp/239.16.215.168:1234
 https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/index.m3u8
 #EXTINF:-1 tvg-id="Quest.Red.uk" tvg-chno="149" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Quest%20Red.png" group-title="IPTV Entertainment",Quest Red (576p)
 https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/index.m3u8
-#EXTINF:-1 tvg-id="Paramount.uk" tvg-chno="150" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/5Action.png" group-title="IPTV Entertainment",5Action (576p)
+#EXTINF:-1 tvg-id="5ACTION.uk" tvg-chno="150" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/5Action.png" group-title="IPTV Entertainment",5Action (576p)
 https://cdnuk001.broadcastcdn.net/KUK-PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-id="Pick.uk" tvg-chno="151" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Pick.png" group-title="IPTV Entertainment",Pick (576i)
 http://194.76.186.55:8888/udp/239.37.22.200:1234
@@ -474,7 +474,7 @@ https://ad2017.vhls.ru.com/lb/premium34/index.m3u8
 https://ad2017.vhls.ru.com/lb/premium555/index.m3u8
 #EXTINF:-1 tvg-id="GINXeSportsTV.uk" tvg-chno="433" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Ginx%20eSports%20TV.png" group-title="IPTV Sports",Ginx eSports TV (576p)
 http://45.92.69.70:8000/play/a03n
-#EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-chno="437" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/SportyStuff%20TV.png" group-title="IPTV Sports",SportyStuff TV (720p)
+#EXTINF:-1 tvg-id="SportyStuff.HD.uk" tvg-chno="437" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/SportyStuff%20TV.png" group-title="IPTV Sports",SportyStuff TV (720p)
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
 
 	# News
@@ -778,7 +778,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://api.new.livestream.com/
 #EXTINF:-1 tvg-id="Good.News.TV.uk" tvg-chno="591" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Good%20News%20TV.png" group-title="IPTV Religion",Good News TV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-religion-goodnewstv-SD
 #EXTINF:-1 tvg-id="Dunamis.TV.uk" tvg-chno="592" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Dunamis%20TV.png" group-title="IPTV Religion",Dunamis TV (576p)
-http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-religion-dunamistv-SD
+https://atechgroupuk.site/DTV.m3u8
 #EXTINF:-1 tvg-id="SonLife.uk" tvg-chno="593" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/SBN%20International.png" group-title="IPTV Religion",SBN International (720p)
 http://s.2-t.uk/sonlife
 #EXTINF:-1 tvg-id="" tvg-chno="594" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/New%20Media%20TV%20UK.png" group-title="IPTV Religion",New Media TV UK (1080p)

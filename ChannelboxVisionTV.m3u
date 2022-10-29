@@ -17,8 +17,6 @@ http://cbxedge.synapsetv.com/picker/tsstreamer/?f=FidoTVLDAI_SD
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=HeritageLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Law%20and%20Crime.png" group-title="IPTV Entertainment",Law & Crime (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=LawCrimeLDAI_SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/NollyAfrica.png" group-title="IPTV Entertainment",Nolly Africa HD (720p)
-http://cbxedge.synapsetv.com/picker/tsstreamer/?f=NollyAfricaLDAI_HD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/NollyAfrica.png" group-title="IPTV Entertainment",Nolly Africa (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=NollyAfricaLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/NTAI.png" group-title="IPTV Entertainment",NTAI (576p)
@@ -42,10 +40,12 @@ http://cbxedge.synapsetv.com/picker/tsstreamer/?f=VoxAfrica_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/VTC.png" group-title="IPTV Entertainment",VTC (576p)
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-vtctv-SD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Yanga%20TV.png" group-title="IPTV Entertainment",Yanga! (576p)
-http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SD
+http://cbxedge.synapsetv.com/picker/tsstreamer/?f=YangaLDAI_SD
 
 	# Movies
 
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Nyx.png" group-title="IPTV Movies",Nyx (576p)
+http://cbxedge.synapsetv.com/picker/tsstreamer/?f=NyxLDAI_SD&length=0
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Rok.png" group-title="IPTV Movies",Rok (576p)
 http://s.2-t.uk/service-13
 
@@ -78,14 +78,10 @@ http://cbxedge.synapsetv.com/picker/tsstreamer/?f=VivaldiLDAI_SD
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=AutoAllstarsLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Billiard%20TV.png" group-title="IPTV Sports",Billiard TV (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=BilliardTVLDAI_SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Channel%20Fight%20Masterclass.png" group-title="IPTV Sports",Channel Fight Masterclass (576p)
-http://cbxedge.synapsetv.com/picker/tsstreamer/?f=FightLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/English%20Football%20Channel.png" group-title="IPTV Sports",English Football Channel (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=EnglishFootballLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ESports%20247%20TV.png" group-title="IPTV Sports",eSports 24/7 TV (576p)
 https://sports.sechls01.visionip.tv/live/visiontvuk-sports-eSports24tv-SD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ExtremePlus.png" group-title="IPTV Sports",Extreme+ (576p)
-http://cbxedge.synapsetv.com/picker/tsstreamer/?f=ExtremePlusLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Fuel%20TV.png" group-title="IPTV Sports",Fuel TV (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=FuelLDAI_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Go%20Live%20Sports%20Cast.png" group-title="IPTV Sports",Go Live Sports Cast (576p)
@@ -231,26 +227,8 @@ https://tvmall.sechls01.visionip.tv/live/visiontvuk-tvmall-jewellery-channel-hss
 
 	# Religion
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/3ABN.png" group-title="IPTV Religion",3ABN (576p)
-http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-3abn-3-abn-hsslive-25f-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/3ABN%20Dare%20to%20Dream%20Network.png" group-title="IPTV Religion",3ABN Dare to Dream Network (576p)
-http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-3abn-dare-to-dream-hsslive-25f-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/3ABN%20Francais%20Network.png" group-title="IPTV Religion",3ABN Francais Network (576p)
-http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-3abn-3-abn-french-hsslive-25f-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/3ABN%20Kids%20Network.png" group-title="IPTV Religion",3ABN Kids Network (576p)
-http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-3abn-3-abn-kids-hsslive-25f-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/3ABN%20Latino%20Network.png" group-title="IPTV Religion",3ABN Latino Network (576p)
-http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-3abn-3-abn-latino-hsslive-25f-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/3ABN%20Praise%20Him%20Music%20Network.png" group-title="IPTV Religion",3ABN Praise Him Music Network (576p)
-http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-3abn-praise-him-hsslive-25f-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/3ABN%20Proclaim%20Network.png" group-title="IPTV Religion",3ABN Proclaim Network (576p)
-http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-3abn-3-abn-proclaim-hsslive-25f-SD
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/3ABN%20Russia.png" group-title="IPTV Religion",3ABN Russia (576p)
-http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-3abn-3-abn-russia-hsslive-25f-SD
 #EXTINF:-1 tvg-id="" tvg-chno="583" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Daystar.png" group-title="IPTV Religion",Daystar (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-christian-daystartv-hsslive-25f-16x9-SD
-#EXTINF:-1 tvg-id="" tvg-chno="597" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Dunamis%20TV.png" group-title="IPTV Religion",Dunamis TV (576p)
-http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-religion-dunamistv-SD
 #EXTINF:-1 tvg-id="" tvg-chno="589" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Faith%20World%20TV.png" group-title="IPTV Religion",Faith World TV (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-christian-faithtv-SD
 #EXTINF:-1 tvg-id="" tvg-chno="596" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Good%20News%20TV.png" group-title="IPTV Religion",Good News TV (576p)
