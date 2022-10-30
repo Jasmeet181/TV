@@ -24,7 +24,7 @@ https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Comedy%20Central%20HD.png" group-title="IPTV Entertainment",Comedy Central East USA (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium310/index.m3u8
+https://webudi.openhd.lol/lb/premium310/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Court%20TV.png" group-title="IPTV Entertainment",Court TV USA (1080p)
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel%28courttv%29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/EarthxTV.png" group-title="IPTV Entertainment",EarthxTV USA (720p)
@@ -33,17 +33,17 @@ https://ov.ottera.tv/live/master.m3u8?channel=earth_et
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Freeform_2022.svg/revision/latest/scale-to-width-down/800?cb=20220902203358" group-title="IPTV Entertainment",Freefrom (720p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium301/index.m3u8
+https://webudi.openhd.lol/lb/premium301/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/HBO%20HD.png" group-title="IPTV Entertainment",HBO East (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium321/index.m3u8
+https://webudi.openhd.lol/lb/premium321/index.m3u8
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20220330T044510.png" group-title="IPTV Entertainment",Love Nature 4K (2160p)
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c46ba294cde7a1a753fdd6c/1633849482121-VWZZ5IUL54IODMSG94EB/motortrend-logo.png" group-title="IPTV Entertainment",MotorTrend (720p)
 https://ypz911gb-videoelephant.asset.cdn.remoco.tv/629a94a1be45c51cd860946e/629a94a1659f6db0fdfae0ce/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/MTV%20HD.png" group-title="IPTV Entertainment",MTV East USA (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium371/index.m3u8
+https://webudi.openhd.lol/lb/premium371/index.m3u8
 #EXTINF:-1 tvg-id="5ca672f515a62078d2ec0ad2" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="IPTV Entertainment",MTV Pluto TV (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/NASA%20Television.png" group-title="IPTV Entertainment",NASA TV Media (720p)
@@ -60,16 +60,16 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 http://89.187.175.143:80/3105/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/TBS.png" group-title="IPTV Entertainment",TBS East (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium336/index.m3u8
+https://webudi.openhd.lol/lb/premium336/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/TNT%20HD.png" group-title="IPTV Entertainment",TNT East (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium338/index.m3u8
+https://webudi.openhd.lol/lb/premium338/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/TruTV%20HD.png" group-title="IPTV Entertainment",TruTV (720p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium341/index.m3u8
+https://webudi.openhd.lol/lb/premium341/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/USA%20Network%20HD.png" group-title="IPTV Entertainment",USA Network (720p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium343/index.m3u8
+https://webudi.openhd.lol/lb/premium343/index.m3u8
 #EXTINF:-1 tvg-id="USBB1900006NY" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/13/USBB1900006NY_20220330T045034.png" group-title="IPTV Entertainment",Vice (1080p)
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Vox%20Africa.png" group-title="IPTV Entertainment",Vox Africa (1080p)
@@ -136,7 +136,7 @@ https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d7
 https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/992f9669ef444754919c6bac2c8d11b3-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/VH1.png" group-title="IPTV Music",VH1 East USA (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium344/index.m3u8
+https://webudi.openhd.lol/lb/premium344/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://img.kapang.com/images/channel-logo/5ef0b78c0abeae000123a474.PNG" group-title="IPTV Music",Vintage Music TV (1080p)
 https://gpuserver001.broadcastcdn.net/CLOUDIETV-VINTAGEJUKEBOX/index.m3u8
 #EXTINF:-1 tvg-id="USBB320000647" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/24/USBB320000647_20220525T030117.png" group-title="IPTV Music",XITE 80s Flashback (1080p)
@@ -176,7 +176,7 @@ https://272ab712c4604e8d8980a78b9335981f.mediatailor.us-east-1.amazonaws.com/v1/
 https://stadium.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/WWE_Network.svg/revision/latest/scale-to-height-down/450?cb=20220607135045" group-title="IPTV Sports",WWE Network (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium376/index.m3u8
+https://webudi.openhd.lol/lb/premium376/index.m3u8
 
 	# News
 
@@ -236,7 +236,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dckids/live
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Disney%20Channel%20HD.png" group-title="IPTV Kids",Disney Channel East (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium312/index.m3u8
+https://webudi.openhd.lol/lb/premium312/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Disney%20Junior%20HD.png" group-title="IPTV Kids",Disney Junior (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/disneyjunior/live
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20cf1ca4-4ac5-4d2d-8d6b-e48d29b50354/dfcg5xg-d2f6553e-f342-40d1-bf88-933a1432ff4e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIwY2YxY2E0LTRhYzUtNGQyZC04ZDZiLWU0OGQyOWI1MDM1NFwvZGZjZzV4Zy1kMmY2NTUzZS1mMzQyLTQwZDEtYmY4OC05MzNhMTQzMmZmNGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tVqRdz8pClw8Ce5gYDdP_l4I9FiiX8iGQFldY9Yp7gE" group-title="IPTV Kids",Netflix After School (1080p)

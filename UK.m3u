@@ -89,7 +89,7 @@ https://cdnuk001.broadcastcdn.net/KUK-CHALLENGE/index.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-FIVESELECT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="154" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ID.png" group-title="IPTV Entertainment",Investigation Discovery USA (720p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium324/index.m3u8
+https://webudi.openhd.lol/lb/premium324/index.m3u8
 #EXTINF:-1 tvg-id="YESTERDAY.uk" tvg-chno="155" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Yesterday.png" group-title="IPTV Entertainment",Yesterday (576p)
 https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/index.m3u8
 #EXTINF:-1 tvg-id="GREAT!.tv.uk" tvg-chno="157" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Great%20TV.png" group-title="IPTV Entertainment",Great! TV (576p)
@@ -98,7 +98,7 @@ https://cdnuk001.broadcastcdn.net/KUK-SONYENTERTAINMENT/index.m3u8
 http://87.212.248.44:60130/play/a04s
 #EXTINF:-1 tvg-id="" tvg-chno="159" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/E%20HD.png" group-title="IPTV Entertainment",E! East USA (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium315/index.m3u8
+https://webudi.openhd.lol/lb/premium315/index.m3u8
 #EXTINF:-1 tvg-id="INBC1500001SN" tvg-chno="162" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/.Light/Animal%20Planet%20HD.png" group-title="IPTV Entertainment",Animal Planet India (1080p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="BLAZE.uk" tvg-chno="164" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Blaze.png" group-title="IPTV Entertainment",Blaze (576p)
@@ -337,10 +337,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://playback.dacast.com/content/access?contentId=00cf85c7ed8ab90087e4d59aab688036-live-d8e9f7890dd835a2b1123db70b2d5ad0&provider=universe
 #EXTINF:-1 tvg-id="RTÉ.One.ie" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/RTE%20One.png" group-title="IPTV Entertainment",RTÉ One (576p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium364/index.m3u8
+https://webudi.openhd.lol/lb/premium364/index.m3u8
 #EXTINF:-1 tvg-id="RTÉ2.ie" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/RTE2%20HD.png" group-title="IPTV Entertainment",RTÉ2 (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium365/index.m3u8
+https://webudi.openhd.lol/lb/premium365/index.m3u8
 #EXTINF:-1 tvg-id="TG4.ie" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/TG4%20HD.png" group-title="IPTV Entertainment",TG4 (1080p)
 https://d3d0bkvqxpkoih.cloudfront.net/tg4_vod_3.m3u8
 
@@ -409,72 +409,72 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-chno="401" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Main%20Event%20HD.png" group-title="IPTV Sports",Sky Sports Main Event (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium38/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-chno="402" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Premier%20League%20HD.png" group-title="IPTV Sports",Sky Sports Premier League (720p)
+https://webudi.openhd.lol/lb/premium38/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-chno="402" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Premier%20League%20HD.png" group-title="IPTV Sports",Sky Sports Premier League (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium130/index.m3u8
+https://webudi.openhd.lol/lb/premium130/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.F&apos;ball.HD.uk" tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Football%20HD.png" group-title="IPTV Sports",Sky Sports Football (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium35/index.m3u8
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-chno="404" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Cricket%20HD.png" group-title="IPTV Sports",Sky Sports Cricket (720p)
+https://webudi.openhd.lol/lb/premium35/index.m3u8
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-chno="404" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Cricket%20HD.png" group-title="IPTV Sports",Sky Sports Cricket (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium65/index.m3u8
+https://webudi.openhd.lol/lb/premium65/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-chno="405" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Golf%20HD.png" group-title="IPTV Sports",Sky Sports Golf (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium70/index.m3u8
+https://webudi.openhd.lol/lb/premium70/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-chno="406" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20F1%20HD.png" group-title="IPTV Sports",Sky Sports F1 (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium60/index.m3u8
+https://webudi.openhd.lol/lb/premium60/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.NFL.HD.uk" tvg-chno="407" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Action%20HD.png" group-title="IPTV Sports",Sky Sports Action (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium37/index.m3u8
+https://webudi.openhd.lol/lb/premium37/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-chno="408" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Arena%20HD.png" group-title="IPTV Sports",Sky Sports Arena (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium36/index.m3u8
+https://webudi.openhd.lol/lb/premium36/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-chno="409" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20News%20HD.png" group-title="IPTV Sports",Sky Sports News (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium366/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-chno="410" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Eurosport%201%20HD.png" group-title="IPTV Sports",Eurosport 1 (720p)
+https://webudi.openhd.lol/lb/premium366/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-chno="410" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Eurosport%201%20HD.png" group-title="IPTV Sports",Eurosport 1 (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium41/index.m3u8
+https://webudi.openhd.lol/lb/premium41/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-chno="411" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Eurosport%202%20HD.png" group-title="IPTV Sports",Eurosport 2 (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium42/index.m3u8
+https://webudi.openhd.lol/lb/premium42/index.m3u8
 #EXTINF:-1 tvg-id="Premier.1.HD.uk" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Premier%20Sports%201%20HD.png" group-title="IPTV Sports",Premier Sports 1 (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium451/index.m3u8
+https://webudi.openhd.lol/lb/premium451/index.m3u8
 #EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-chno="413" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/BT%20Sport%201%20HD.png" group-title="IPTV Sports",BT Sport 1 (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium31/index.m3u8
+https://webudi.openhd.lol/lb/premium31/index.m3u8
 #EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-chno="414" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/BT%20Sport%202%20HD.png" group-title="IPTV Sports",BT Sport 2 (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium32/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-chno="415" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Racing%20HD.png" group-title="IPTV Sports",Sky Sports Racing (720p)
+https://webudi.openhd.lol/lb/premium32/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-chno="415" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Racing%20HD.png" group-title="IPTV Sports",Sky Sports Racing (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium554/index.m3u8
+https://webudi.openhd.lol/lb/premium554/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-chno="416" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sky%20Sports%20Mix%20HD.png" group-title="IPTV Sports",Sky Sports Mix (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium449/index.m3u8
+https://webudi.openhd.lol/lb/premium449/index.m3u8
 #EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-chno="417" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/BT%20Sport%203%20HD.png" group-title="IPTV Sports",BT Sport 3 (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium33/index.m3u8
-#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-chno="418" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/MUTV%20HD.png" group-title="IPTV Sports",MUTV (720p)
+https://webudi.openhd.lol/lb/premium33/index.m3u8
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-chno="418" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/MUTV%20HD.png" group-title="IPTV Sports",MUTV (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium377/index.m3u8
+https://webudi.openhd.lol/lb/premium377/index.m3u8
 #EXTINF:-1 tvg-id="Premier.2.HD.uk" tvg-chno="421" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Premier%20Sports%202%20HD.png" group-title="IPTV Sports",Premier Sports 2 (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium550/index.m3u8
+https://webudi.openhd.lol/lb/premium550/index.m3u8
 #EXTINF:-1 tvg-id="FreeSports.HD.uk" tvg-chno="422" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/FreeSports%20HD.png" group-title="IPTV Sports",Freesports (1080p)
 https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
 #EXTINF:-1 tvg-id="BT.Sport.4.HD.uk" tvg-chno="423" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/BT%20Sport%204%20HD.png" group-title="IPTV Sports",BT Sport 4 (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium34/index.m3u8
+https://webudi.openhd.lol/lb/premium34/index.m3u8
 #EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-chno="426" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Racing%20TV%20HD.png" group-title="IPTV Sports",Racing TV (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium555/index.m3u8
+https://webudi.openhd.lol/lb/premium555/index.m3u8
 #EXTINF:-1 tvg-id="GINXeSportsTV.uk" tvg-chno="433" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Ginx%20eSports%20TV.png" group-title="IPTV Sports",Ginx eSports TV (576p)
 http://45.92.69.70:8000/play/a03n
-#EXTINF:-1 tvg-id="SportyStuff.HD.uk" tvg-chno="437" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/SportyStuff%20TV.png" group-title="IPTV Sports",SportyStuff TV (720p)
+#EXTINF:-1 tvg-id="SportyStuff.HD.uk" tvg-chno="437" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/SportyStuff%20TV.png" group-title="IPTV Sports",SportyStuff TV (1080p)
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
 
 	# News
