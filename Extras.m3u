@@ -2,24 +2,29 @@
 
 	# Entertainment
 
-#EXTINF:-1 tvg-id="5d2c571faeb3e2738ae27933" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png" group-title="IPTV Entertainment",5 Cops (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5d2c57ee4f9ddf73da8a0ba5" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5d2c57ee4f9ddf73da8a0ba5/colorLogoPNG.png" group-title="IPTV Entertainment",5 GP's (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="6152da8b32a1450008391e85" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/6152da8b32a1450008391e85/colorLogoPNG.png" group-title="IPTV Entertainment",5 Cruising with Jane McDonald (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6152da8b32a1450008391e85/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="6152d96431ece500071e5ba5" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/6152d96431ece500071e5ba5/colorLogoPNG.png" group-title="IPTV Entertainment",5 Destination Britain (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6152d96431ece500071e5ba5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ddf901280e3550009139c86" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5ddf901280e3550009139c86/colorLogoPNG.png" group-title="IPTV Entertainment",5 Building Britain (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="GBAK3504500A" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/GBAK3504500A_20221012T015857.png" group-title="IPTV Entertainment",5 Cops (720p)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d9f6e738977e2c3109db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="GBAK3504501A" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/GBAK3504501A_20220824T005422.png" group-title="IPTV Entertainment",5 Exploring Britain (720p)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c560e8d97ff74848c697d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="GBAJ700004K9" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/13/GBAJ700004K9_20220323T070155.png" group-title="IPTV Entertainment",5 GP's: Behind Closed Doors (720p)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c5299c91420009db4872/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/AMC%20HD.png" group-title="IPTV Entertainment",AMC East (720p)
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/BBC_America_logo_2022.svg/revision/latest/scale-to-height-down/450?cb=20220407232621" group-title="IPTV Entertainment",BBC America (720p)
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-nordic-logos/master/TV/.Light/BBC%20Earth.png" group-title="IPTV Entertainment",BBC Earth Turkey (1080p)
+http://95.70.252.86:8000/play/a088
 #EXTINF:-1 tvg-id="5fb5844bf5514d0007945bda" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="IPTV Entertainment",BBC Food (720p)
 https://d386m2lmbakvx4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-maq49n9yo9ui9-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="IPTV Entertainment",BBC Home (720p)
 https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="USBC2400027NG" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBC2400027NG_20220914T013020.png" group-title="IPTV Entertainment",BBC Top Gear (720p)
 https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i0am1w3cs6gml-ssai-prd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Bravo.png" group-title="IPTV Entertainment",Bravo USA (360p)
+#EXTVLCOPT:http-referrer=http://tv247.us/
+https://live.tv247us.com/tv247/bravo.m3u8
 #EXTINF:-1 tvg-id="USBA3800005NI" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png" group-title="IPTV Entertainment",Clarity 4K (2160p)
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Comedy%20Central%20HD.png" group-title="IPTV Entertainment",Comedy Central East USA (1080p)
@@ -27,8 +32,6 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://webudi.openhd.lol/lb/premium310/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Court%20TV.png" group-title="IPTV Entertainment",Court TV USA (1080p)
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel%28courttv%29/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/EarthxTV.png" group-title="IPTV Entertainment",EarthxTV USA (720p)
-https://ov.ottera.tv/live/master.m3u8?channel=earth_et
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-it-logos/master/TV/.Light/Fashion%20TV%20UHD.png" group-title="IPTV Entertainment",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Freeform_2022.svg/revision/latest/scale-to-width-down/800?cb=20220902203358" group-title="IPTV Entertainment",Freefrom (720p)
@@ -37,10 +40,12 @@ https://webudi.openhd.lol/lb/premium301/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/HBO%20HD.png" group-title="IPTV Entertainment",HBO East (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudi.openhd.lol/lb/premium321/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/ID.png" group-title="IPTV Entertainment",ID India (720p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idhdin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20220330T044510.png" group-title="IPTV Entertainment",Love Nature 4K (2160p)
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c46ba294cde7a1a753fdd6c/1633849482121-VWZZ5IUL54IODMSG94EB/motortrend-logo.png" group-title="IPTV Entertainment",MotorTrend (720p)
-https://ypz911gb-videoelephant.asset.cdn.remoco.tv/629a94a1be45c51cd860946e/629a94a1659f6db0fdfae0ce/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c46ba294cde7a1a753fdd6c/1633849482121-VWZZ5IUL54IODMSG94EB/motortrend-logo.png" group-title="IPTV Entertainment",MotorTrend (1080p)
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/1091/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/MTV%20HD.png" group-title="IPTV Entertainment",MTV East USA (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudi.openhd.lol/lb/premium371/index.m3u8
@@ -56,8 +61,9 @@ https://endpnt.com/hls/nasa4k60/playlist.m3u8
 https://5591df34695b4451a3a21e0fecb11830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_PlanetKnowledge/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Smithsonian%20Channel%20HD.png" group-title="IPTV Entertainment",Smithsonian Channel Australia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/6f1af711911cbaeed4bfffb38adf563ee0aba68b/TV/.Light/Syfy%20HD.png" group-title="IPTV Entertainment",Syfy East (1080p)
-http://89.187.175.143:80/3105/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Syfy.png" group-title="IPTV Entertainment",Syfy East (360p)
+#EXTVLCOPT:http-referrer=http://tv247.us/
+https://live.tv247us.com/tv247/syfy.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/TBS.png" group-title="IPTV Entertainment",TBS East (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudi.openhd.lol/lb/premium336/index.m3u8
@@ -79,6 +85,8 @@ https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/index.m3u8
 
 #EXTINF:-1 tvg-id="USBB19000017U" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20220621T075823.png" group-title="IPTV Movies",Hallmark Movies & More (1080p)
 https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/IFC.png" group-title="IPTV Movies",IFC East (720p)
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/45/USAJ26000054W_20220621T075920.png" group-title="IPTV Movies",Paramount Movie Channel (720p)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="GBAJ4900006TU" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/37/GBAJ4900006TU_20220323T071344.png" group-title="IPTV Movies",Rakuten TV Action (720p)
@@ -106,34 +114,62 @@ https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4fre
 
 	# Music
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/afc8ded72fe803bbc7064a7c472327597435edee/TV/.Light/Country%20Music%20Entertainment.png" group-title="IPTV Music",Country Music Entertainment (720p)
-https://cmetv.r.worldssl.net/cmetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://img.kapang.com/images/channel-logo/6040a943d37f0a00013ee104.JPG" group-title="IPTV Entertainment",Christmas 365 (720p)
+https://cdnuk001.broadcastcdn.net/CLOUDIETV-CHRISTMAS365/index.m3u8
 #EXTINF:-1 tvg-id="USBB1000002TK" tvg-chno=" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ke-kw3AML.png" group-title="IPTV Music",Loupe 4K (2160p)
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/.Light/MTV%2000s.png" group-title="IPTV Music",MTV 00s Europe (576p)
 http://85.11.144.9:4222/VH1?token=test
+#EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="IPTV Music",MTV Biggest Pop (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="IPTV Music",MTV Block Party (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="635bfb89b5cd9b0007ca9d63" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" group-title="IPTV Music",MTV Classic (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/635bfb89b5cd9b0007ca9d63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="62a067e7c65ff60007b40874" tvg-chno="681" tvg-logo="https://images.pluto.tv/channels/62a067e7c65ff60007b40874/colorLogoPNG.png" group-title="IPTV Music",MTV Movie Hits (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62a067e7c65ff60007b40874/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5d14fdb8ca91eedee1633117" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="IPTV Music",MTV Spankin' New (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="635bfa457176da0007355017" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/635bfa457176da0007355017/colorLogoPNG.png" group-title="IPTV Music",MTV Xmas (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/635bfa457176da0007355017/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Music%20and%20Memories%20TV.png" group-title="IPTV Music",Music & Memories TV (1080p)
 https://edge-fast2.evrideo.tv/51da5aca-56ff-4735-bde8-b75d2ae4d9b9_0_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-chno=" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/47f064af019df131293d53dbde9d50cdbc1e185b/TV/.Light/Trace%20Latina.png" group-title="IPTV Music",Trace Latina (1080p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/d47663f2e43184439ba699a77e25ebc9283fbe8a/TV/.Light/Now%2090s.png" group-title="IPTV Music",Now 90s (720p)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-chno=" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/logo-trace-latina-2.jpg" group-title="IPTV Music",Trace Latina (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="GBBC900001SC" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/afc8ded72fe803bbc7064a7c472327597435edee/TV/.Light/Trace%20Urban.png" group-title="IPTV Music",Trace Urban (1080p)
+#EXTINF:-1 tvg-id="GBBC900001SC" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/.Light/Trace%20Urban.png" group-title="IPTV Music",Trace Urban (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="USBB4400015F5" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USBB4400015F5_20220330T044640.png" group-title="IPTV Music",Vevo 2K (1080p)
-https://d2lzzmzt70lih2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cci0vkzzomoo0-prod/26c1e462-824a-4fc9-8a80-764352bf45d4/ee3fcf1d-1183-42c6-97f7-e6e1e3ab856f-samsung-tv/live.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="GBBA18000019X" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/98/GBBA18000019X_20220323T071621.png" group-title="IPTV Music",Vevo '90s & '00s (1080p)
-https://eu.linear.zype.com/dbd38661-af53-44d2-b5e7-cec4bf963939/d476b7a5-eabc-4afd-8760-b049d5a6dbd9-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="USAJ4800004PU" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USAJ4800004PU_20220330T044619.png" group-title="IPTV Music",Vevo Country (1080p)
-https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/feeb7c9bb5f8446cb46e2cc6697270cb-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
-#EXTINF:-1 tvg-id="USAJ4800003J5" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/22/USAJ4800003J5_20220330T044516.png" group-title="IPTV Music",Vevo Hip-Hop (1080p)
-https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/a5d8206e5d124ad6a6a4306444efbc3c-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
-#EXTINF:-1 tvg-id="USAJ4800001BL" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/78/USAJ4800001BL_20220330T044620.png" group-title="IPTV Music",Vevo Latino (1080p)
-https://na.linear.zype.com/634387d4-169a-45db-a7e3-10e4e02fbd67/2e2e55d0495040c4868bcdc9ddf16471-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
-#EXTINF:-1 tvg-id="GBBA1700001AD" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/69/GBBA1700001AD_20220323T071626.png" group-title="IPTV Music",Vevo Pop UK (1080p)
-https://eu.linear.zype.com/ddc9a2e1-559f-4231-978d-988e6ed3496e/39aafa78-d7c6-49a3-9057-59cdadaa2fb6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="USAJ4000011W6" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/41/USAJ4000011W6_20220330T044514.png" group-title="IPTV Music",Vevo Pop USA (1080p)
-https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d79609414b21abf9ff-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
-#EXTINF:-1 tvg-id="USAJ4800002B4" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/73/USAJ4800002B4_20220330T044515.png" group-title="IPTV Music",Vevo R&B (1080p)
-https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/992f9669ef444754919c6bac2c8d11b3-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="IPTV Music",Vevo '70s (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="IPTV Music",Vevo '80s (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="IPTV Music",Vevo '90s (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="GBBC2100002HP" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/30/GBBC2100002HP_20220810T012606.png" group-title="IPTV Music"",Vevo '90s & '00s (1080p)
+https://eu.linear.zype.com/dbd38661-af53-44d2-b5e7-cec4bf963939/d476b7a5-eabc-4afd-8760-b049d5a6dbd9-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="IPTV Music",Vevo 2K (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="GBBC4500001BP" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/GBBC4500001BP_20221214T044817.png" group-title="IPTV Music",Vevo Christmas (1080p)
+https://eu.linear.zype.com/60ce5043-d7a3-4aed-bdc3-f7b7c6903f93/6e75d222-7076-4b18-b584-ed443cc4c808-samsung-tv/live.m3u8?device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="IPTV Music",Vevo Country (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6334a3ffdc283500076acf92" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/6334a3ffdc283500076acf92/colorLogoPNG.png" group-title="IPTV Music",Vevo Holiday (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a3ffdc283500076acf92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" group-title="IPTV Music",Vevo Latino (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="GBBC19000017V" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/GBBC19000017V_20221012T015923.png" group-title="IPTV Music"",Vevo Pop GB (1080p)
+https://eu.linear.zype.com/ddc9a2e1-559f-4231-978d-988e6ed3496e/39aafa78-d7c6-49a3-9057-59cdadaa2fb6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="IPTV Music",Vevo Pop US (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5da0d83f66c9700009b96d0e" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="IPTV Music",Vevo R&B (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f32f397795b750007706448" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="IPTV Music",Vevo Reggaeton & Trap (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="61d4b38226b8a50007fe03a6" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="IPTV Music",Vevo Retro Rock (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="IPTV Music",Vevo True School Hip-Hop (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/VH1.png" group-title="IPTV Music",VH1 East USA (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudi.openhd.lol/lb/premium344/index.m3u8
@@ -149,15 +185,17 @@ https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg012
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USBB2300004KV" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/32/USBB2300004KV_20220525T030113.png" group-title="IPTV Music",XITE Rock On (1080p)
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="IPTV Music",Yo! MTV (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 	# Sports
 
 #EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="IPTV Sports",BeIN Sports Xtra (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62c8a2d2d774648bcc76a116" tvg-chno="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="IPTV Sports",Fite 24/7 Plex (1080p)
+#EXTINF:-1 tvg-id="GBAJ4200005DX" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/.Light/EdgeSport.png" group-title="IPTV Sports",EdgeSport (1080p)
+https://amg00780-imgmedialtd-edgesportuk-samsunguk-xy97n.amagi.tv/playlist/samsunguk-edgesportusa-samsungtv-uk/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62c8a2d2d774648bcc76a116" tvg-chno="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="IPTV Sports",Fite 24/7 (1080p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62c8a2d2d774648bcc76a116.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PuuxzxHqraz53Km8acyx
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="IPTV Sports",Fite 24/7 Flixhouse (1080p)
-https://a9f9f1e051724852a56c2529e3076740.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/nplpayout-flixhouse/RV8LOL3PPYCSUNAWFDFI/263.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/800px-FITE_TV.svg.png" group-title="IPTV Sports",Fite TV Plus (1080p)
 https://a9f9f1e051724852a56c2529e3076740.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/nplpayout-flixhouse/C3C4VADEU0EZIY6O8VK5/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="INBC1500008UJ" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/42/INBC1500009OF_20220427T054754.png" group-title="IPTV Sports",Eurosport India (1080p)
@@ -166,10 +204,14 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-sam
 https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
 #EXTINF:-1 tvg-id="5c01df1759ee03633e7b272c" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="IPTV Sports",Lucha Libre AAA (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/NJPW_World_2.png" group-title="IPTV Sports",NJPW World (540p)
+#EXTINF:-1 tvg-id="GBBA1500008RW" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/GBBA1500008RW_20221026T004635.png" group-title="IPTV Sports",Motorvision (720p)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/e213a5dc-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/NJPW_World_2.png" group-title="IPTV Sports",NJPW World (1080p)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/NJPW_World_2.png" group-title="IPTV Sports",NJPW World 2 (540p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/NJPW_World_2.png" group-title="IPTV Sports",NJPW World 2 (1080p)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel02_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="61ea9e5e3ae39c00076ee3b5" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/61ea9e5e3ae39c00076ee3b5/colorLogoPNG.png" group-title="IPTV Sports",RX TV (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61ea9e5e3ae39c00076ee3b5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="GBAJ4900003KD" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/46/GBAJ4900003KD_20220323T071058.png" group-title="IPTV Sports",Sports Channel Network (720p)
 https://272ab712c4604e8d8980a78b9335981f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_SportsChannelNetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ3504705A" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/22/USAJ3504705A_20220330T045023.png" group-title="IPTV Sports",Stadium (720p)
@@ -195,18 +237,21 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
 #EXTINF:-1 tvg-id="USBA370000104" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/67/USBA370000104_20220413T093236.png" group-title="IPTV News",CBS News (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-nordic-logos/master/TV/.Light/CGTN%20HD.png" group-title="IPTV News",CGTN (720p)
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.png" group-title="IPTV News",CNA (720p)
-https://mediacorp-videosbclive.akamaized.net/c6717ac64d72465eae79bfbc2064d893/ap-southeast-1/6057994443001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-nordic-logos/master/TV/.Light/CGTN%20HD.png" group-title="IPTV News",CGTN (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-nordic-logos/master/TV/.Light/CGTN%20Documentary.png" group-title="IPTV News",CGTN Documentary (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.png" group-title="IPTV News",CNA (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Deutsche%20Welle.png" group-title="IPTV News",Deutsche Welle (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Fox%20News%20Channel.png" group-title="IPTV News",Fox News (360p)
+#EXTVLCOPT:http-referrer=http://tv247.us/
+https://live.tv247us.com/tv247/fn.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5fcbf63e41ec4a2cc0d3a5f1/1648058809722-IJ5NSD1K2FY514GLLMT5/Global+news.png" group-title="IPTV News",Global News (720p)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/.Light/I24%20News%20English.png" group-title="IPTV News",i24News English (576i)
 http://45.92.69.72:8000/play/a0jt
-#EXTINF:-1 tvg-id="" tvg-chno="USBA300024TN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN_20220330T045026.png" group-title="IPTV News",LiveNow from Fox (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/News%20Central.png" group-title="IPTV News",News Central (576p)
 http://entertainment.pdhls-prx1.visionip.tv/live/visiontvuk-news-newscentral-hsslive-25f-SD
 #EXTINF:-1 tvg-id="USBA300028QU" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Newsmax TV.png" group-title="IPTV News",Newsmax TV (1080p)
@@ -217,8 +262,6 @@ https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungin
 https://8d642f3f57294d719ccf3a03a89373aa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_ReutersNow/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/28bbaa10f12455f5d20a8ad5b525afdddbc85d0c/TV/.Light/RT%20HD.png" group-title="IPTV News",RT (1080p)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/28bbaa10f12455f5d20a8ad5b525afdddbc85d0c/TV/.Light/RT%20HD.png" group-title="IPTV News",RT UK (1080p)
-https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/.Light/TeleSur%20HD.png" group-title="IPTV News",Telesur English (1080p)
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images-2.wuaki.tv/system/artwork_negatives/377/original/the-guardian-1643286112.png" group-title="IPTV News",The Guardian Rakuten TV (720p)
@@ -233,16 +276,16 @@ http://cbxedge.synapsetv.com/picker/tsstreamer/?f=TVP_HD
 #EXTINF:-1 tvg-id="60fb00b4b6455d0007493b0b" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/60fb00b4b6455d0007493b0b/colorLogoPNG.png" group-title="IPTV Kids",BBC Kids (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/DC_Kids_2016.svg/revision/latest/scale-to-width-down/800?cb=20170801131528" group-title="IPTV Kids",DC Kids (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dckids/live
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/c/dckids/live
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Disney%20Channel%20HD.png" group-title="IPTV Kids",Disney Channel East (1080p)
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudi.openhd.lol/lb/premium312/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Disney%20Junior%20HD.png" group-title="IPTV Kids",Disney Junior (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/disneyjunior/live
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20cf1ca4-4ac5-4d2d-8d6b-e48d29b50354/dfcg5xg-d2f6553e-f342-40d1-bf88-933a1432ff4e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIwY2YxY2E0LTRhYzUtNGQyZC04ZDZiLWU0OGQyOWI1MDM1NFwvZGZjZzV4Zy1kMmY2NTUzZS1mMzQyLTQwZDEtYmY4OC05MzNhMTQzMmZmNGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tVqRdz8pClw8Ce5gYDdP_l4I9FiiX8iGQFldY9Yp7gE" group-title="IPTV Kids",Netflix After School (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/netflixafterschool/live
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/user/disneyjunior/live
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/NetflixAfterSchool.jpeg/revision/latest?cb=20220323124624" group-title="IPTV Kids",Netflix After School (1080p)
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/c/netflixafterschool/live
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/netflix/netflix-jr-magazine/images/regions/us/tt-header.png" group-title="IPTV Kids",Netflix Jr. (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NetflixJr/live
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/c/NetflixJr/live
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="IPTV Kids",Nick Pluto TV (720p)
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="IPTV Kids",Nick Jr. Pluto TV (720p)
@@ -251,34 +294,34 @@ https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="IPTV Kids",Nick Jr. Totally Turtles (720p)
 https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="h" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Nickelodeon.png" group-title="IPTV Kids",Nickelodeon USA (360p)
+#EXTVLCOPT:http-referrer=http://tv247.us/
+https://live.tv247us.com/tv247/nickelodeon.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Nicktoons.png" group-title="IPTV Kids",Nicktoons USA (360p)
+#EXTVLCOPT:http-referrer=http://tv247.us/
+https://live.tv247us.com/tv247/nicktoons.m3u8
 #EXTINF:-1 tvg-id="USBB90000726" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/PBS_Kids_%282022%29.svg/revision/latest/scale-to-width-down/800?cb=20220719135346" group-title="IPTV Kids",PBS Kids East USA (720p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-3sBgD3nxejji-sxv0umTnSSa8v5QJvVHf8r8Chw" group-title="IPTV Kids",Peacock jr (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Peacockjr/live
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/c/Peacockjr/live
 #EXTINF:-1 tvg-id="GBBA3300024F7" tvg-chno="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/GBBA3300024F7_20220323T071420.png" group-title="IPTV Kids",Rakuten TV Family (720p)
 https://469cf88d4f4c4ba48207fdfd0f74f580.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_RakutenFamily/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.wbkidsgo.com/themes/custom/wbkidsgo/logo.png" group-title="IPTV Kids",WB Kids (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wbkids/live
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/c/wbkids/live
 #EXTINF:-1 tvg-id="USBC2400019EF" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/4b6d112a9d6d5509af0d1031e8630d82ecb00ad0/TV/Simple200/ZooMoo%20HD.png" group-title="IPTV Kids",ZooMoo (1080p)
 https://did04mu4z77ga.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-iboc5f175mel5-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 	# International
 		# Hindi
 
-#EXTINF:-1 tvg-id="Star.Plus.HD.uk" tvg-chno="705" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Utsav%20Plus%20HD.png" group-title="IPTV Int Hindi",Utsav Plus (720p)
-http://208.115.215.42/Utsav_Plus_UK/index.m3u8
-#EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-chno="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="IPTV Int Hindi",&Flix (1080p)
-http://103.99.249.107:81/play/a00x
-#EXTINF:-1 tvg-id="And.pictures.HD.in" tvg-chno="" tvg-logo="https://i.pinimg.com/originals/18/b9/4b/18b94b1b02e8939eb2b8d81fc24b3eb5.png" group-title="IPTV Int Hindi",&Pictures (1080p)
-http://103.99.249.107:81/play/a01c
 #EXTINF:-1 tvg-id="and.tv.HD.in" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/1257892c72251a43cf114b9e60d6ac271706b7dd/Future/AndTV%20HD.png" group-title="IPTV Int Hindi",&TV (1080p)
 http://103.166.102.58:8000/play/a01u
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/9xm_blue.svg/revision/latest/scale-to-width-down/711?cb=20210508163726" group-title="IPTV Int Hindi",9XM (480p)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="ABP.News.in" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/ABP_News.svg/revision/latest/scale-to-height-down/450?cb=20201222100643" group-title="IPTV Int Hindi",ABP News (720p)
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://d2sqx12cok5m5h.cloudfront.net/Channellogos/160x90/B4U_Kadak.png" group-title="IPTV Int Hindi",B4U Kadak (480p)
-https://pull-3187.5centscdn.com/vizjsj1apjkea3/smil:B4U_Kadak.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://d2sqx12cok5m5h.cloudfront.net/Channellogos/160x90/B4U_Kadak.png" group-title="IPTV Int Hindi",B4U Kadak (360p)
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Bollywood%20Classic.png" group-title="IPTV Int Hindi",Bollywood Classic (1080p)
 https://dai.google.com/linear/hls/event/5RjYG3ljS_e6bEhdiAWUGQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Bollywood%20HD.png" group-title="IPTV Int Hindi",Bollywood HD (1080p)
@@ -286,9 +329,9 @@ https://dai.google.com/linear/hls/event/1TkAgfDIQ1O4BegjY801TA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.ytimg.com/an/IAnlTV3O9NYWMI-DwYZaWg/featured_channel.jpg" group-title="IPTV Int Hindi",DD Bharati (480p)
 https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/934709/assetType/media/assetFileId/15074730/contextType/PLAYBACK/isAltUrl/False/ks/djJ8NDg3fIZbQL8RDGvI46D8Be04c3G3Qu5CpWmmVQ-ZXo1MUR7LRhJFAG6vozaM0ge6ZKFAo8-gHmGr02RYu9GpCvAicGvLto51-vNz2E4swWCECj48V3kQKdmDYn0C6oJyc2siTG-7yi99fvCAwm6_OvF5jL62fSP8XSBqHKIHOSqMn0iFsV-uExs1JqrbRXjhiPSpK00rSMQbYulMLJTg8yt2Rp0rkxiSVCjvblTTa-ZRbi3oeLGh1NZOvm6N35WuZae_8sjL2vZPaqdWn6zkK8aHO9QEk4KvA78-qdKIAU02M2KfkzcOi8xDAE6YLMNqBMTo5YJFGTjNOyVrTXDDyMN5yHBjXKSNErK1yq44aDcAU3ExasnFTcirtNkx2X1oQG2rntTDnXwO4DWGy0Tvfd_Cv4wB4aBFagFrecP8eFuniFr3/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg/revision/latest?cb=20190615065452" group-title="IPTV Int Hindi",DD India (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/DD-Kishan_Logo.png/revision/latest/scale-to-height-down/450?cb=20160805131037" group-title="IPTV Int Hindi",DD Kisan (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnDfmcUyhgJp6xC1LmBLfUg/live
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnDfmcUyhgJp6xC1LmBLfUg/live
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Dd_national_New_Logos.png" group-title="IPTV Int Hindi",DD National (480p)
 https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/934700/assetType/media/assetFileId/15074548/contextType/PLAYBACK/isAltUrl/False/ks/djJ8NDg3fIZbQL8RDGvI46D8Be04c3G3Qu5CpWmmVQ-ZXo1MUR7LRhJFAG6vozaM0ge6ZKFAo8-gHmGr02RYu9GpCvAicGvLto51-vNz2E4swWCECj48V3kQKdmDYn0C6oJyc2siTG-7yi99fvCAwm6_OvF5jL62fSP8XSBqHKIHOSqMn0iFsV-uExs1JqrbRXjhiPSpK00rSMQbYulMLJTg8yt2Rp0rkxiSVCjvblTTa-ZRbi3oeLGh1NZOvm6N35WuZae_8sjL2vZPaqdWn6zkK8aHO9QEk4KvA78-qdKIAU02M2KfkzcOi8xDAE6YLMNqBMTo5YJFGTjNOyVrTXDDyMN5yHBjXKSNErK1yq44aDcAU3ExasnFTcirtNkx2X1oQG2rntTDnXwO4DWGy0Tvfd_Cv4wB4aBFagFrecP8eFuniFr3/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/DD_News_HD.jpg/revision/latest?cb=20190103110635" group-title="IPTV Int Hindi",DD News (1080p)
@@ -296,7 +339,7 @@ https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/p
 https://playhls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Epic_TV_%282021%29.jpg" group-title="IPTV Int Hindi",Epic (720p)
 https://dai.google.com/linear/hls/event/VdkqDvxYQJi12MSOO9PcJA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://foodfood.b-cdn.net/assets/images/logo/logo.png" group-title="IPTV Int Hindi",FoodFood (1080p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.foodfood.com/assets/images/logo/logo.png" group-title="IPTV Int Hindi",FoodFood (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/india-today-news-black.png" group-title="IPTV Int Hindi",India Today (720p)
 https://feeds.intoday.in/hltapps/api/master.m3u8
@@ -304,12 +347,10 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/05/mirror_now-logo-brandlogos.net_.png" group-title="IPTV Int Hindi",Mirror Now (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mirror-now/master.m3u8
-#EXTINF:-1 tvg-id="Music.India.in" tvg-chno="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/800/800/bnw/music-india-black.png" group-title="IPTV Int Hindi",Music India (480p)
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 #EXTINF:-1 tvg-id="INBC2800002WJ" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/4b6d112a9d6d5509af0d1031e8630d82ecb00ad0/TV/Simple200/NDTV%20India.png" group-title="IPTV Int Hindi",NDTV India (720p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvindia-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="News18.India.in" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/News_18_India.png/revision/latest?cb=20171207202135" group-title="IPTV Int Hindi",News18 India (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/news18India/live
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/c/news18India/live
 #EXTINF:-1 tvg-id="News.24.in" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/News_24_new.jpeg/revision/latest?cb=20191222044934" group-title="IPTV Int Hindi",News24 (480p)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="INBA490002119" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/89/INBA490002119_20220427T054654.png" group-title="IPTV Int Hindi",Republic Bharat (1080p)
@@ -321,8 +362,6 @@ https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PuuxzxHqraz53Km8acyx
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61ae65bd03baf19077bbf931" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/91de118e-c7bd-489b-9188-869538b03c81/sonyKAL_logo_dark.png" group-title="IPTV Int Hindi",Sony Kal (1080p)
 https://spt-sonykal-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Star.Bharat.HD.in" tvg-chno="" tvg-logo="https://d2sqx12cok5m5h.cloudfront.net/Channellogos/160x90/Star_Bharat_HD.png" group-title="IPTV Int Hindi",Star Bharat India (1080p)
-http://103.162.136.235:4500/play/a00p
 #EXTINF:-1 tvg-id="TIMES.NOW.in" tvg-chno="" tvg-logo="https://iks.timesnownews.com/s/v1/img/timesnowgoogle.png" group-title="IPTV Int Hindi",Times Now (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/times-now-news/master.m3u8
 #EXTINF:-1 tvg-id="Times.Now.Navbharat.HD.in" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Times%20Now%20Navbharat.png" group-title="IPTV Int Hindi",Times Now Navbharat (720p)
@@ -336,25 +375,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 	
 #EXTINF:-1 tvg-id="92News.pk" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/92%20News%20UK.png" group-title="IPTV Int Urdu",92 News (720p)
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/e61aedd62e2f45711e21ebfecd871fd88719ba73/TV/Simple200/ARY%20News.png" group-title="IPTV Int Urdu",ARY News Pakistan (720p)
-#EXTVLCOPT:http-referrer=https://live.arynews.tv/
-https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/e61aedd62e2f45711e21ebfecd871fd88719ba73/TV/Simple200/ARY%20News.png" group-title="IPTV Int Urdu",ARY News Pakistan (1080p)
+https://arynews.aryzap.com/1b27b757d7cf89581c8da934a34a78f1/63affb4b/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8
 #EXTINF:-1 tvg-id="DDUrdu.in" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/DD_Urdu_new.jpeg/revision/latest?cb=20191229180017" group-title="IPTV Int Urdu",DD Urdu (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCu9Fj9QRAg26ZY9DhF8HSrQ/live
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCu9Fj9QRAg26ZY9DhF8HSrQ/live
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/fa5ea8d71a27267e7622eb224b6e50429ea08b21/TV/Simple200/GEO%20Tez.png" group-title="IPTV Int Urdu",Geo Tez (360p)
 #EXTVLCOPT:http-referrer=https://geotez.tv/
 https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Geo%20TV.png" group-title="IPTV Int Urdu",Geo TV Pakistan (360p)
 #EXTVLCOPT:http-referrer=https://harpalgeo.tv/live/
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/0040e14698b55d8fcc4c08829f4cc92c5bcf5405/TV/Simple200/Hum%20News.png" group-title="IPTV Int Urdu",Hum News (1080p)
-http://50.7.237.4:8080/HUMNEWS/playlist.m3u8
 
 		# Punjabi
 
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wixstatic.com/media/bab221_3bce38c71600438084a6e1e7b7041a7c.png" group-title="IPTV Int Punjabi",5aab TV (720p)
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://scontent.fman3-1.fna.fbcdn.net/v/t1.6435-9/147516433_122019373158432_4872079809711129875_n.png?_nc_cat=109&ccb=1-7&_nc_sid=973b4a&_nc_ohc=jkroXeZ92RIAX9BEGsK&_nc_ht=scontent.fman3-1.fna&oh=00_AT8h1Dpjzb8Le3jplLtWa7-xgOJj8Ef9PyYC97cmhAx0YA&oe=62E2FDF8" group-title="IPTV Int Punjabi",7X Music (720p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png" group-title="IPTV Int Punjabi",7X Music (720p)
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 tvg-id="ABP.Sanjha.in" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ABP_Sanjha_logo.svg/444px-ABP_Sanjha_logo.svg.png" group-title="IPTV Int Punjabi",ABP Sanjha (720p)
 https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
@@ -366,13 +402,16 @@ https://dai.google.com/linear/hls/event/Xsz6fkDnQHO7twAdgP3l9w/master.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.imgur.com/g8VsoFL.png" group-title="IPTV Int Punjabi",Channel Y (720p)
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="IPTV Int Punjabi",DD Punjabi (576p)
+#EXTVLCOPT:network-caching=1000
+https://tv.freeseries.eu.org/live.php?c=DD_Punjabi&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.corecommunique.com/wp-content/uploads/2016/04/desi-channel-logo-copy.png" group-title="IPTV Int Punjabi",Desi Channel (720p)
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://play-lh.googleusercontent.com/AA1e2N9ElbRMZnZtPJnRJyEOjz82HqCk_mnaSZ5bY4LiiCeeePodMmVlkwuaVYgVYA" group-title="IPTV Int Punjabi",Fateh TV (720p)
 https://rtmp.smartstream.video/fatehtv/fatehtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Garv_Punjab_Gurbani.png" group-title="IPTV Int Punjabi",Garv Punjab Gurbani (1080p)
 https://dai.google.com/linear/hls/event/yNRrz0sfQVqnHctUEq9dZg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="http://www.arobin.org/uploads/thumbs/1554429425_BBC-LOGO-MADE.png" group-title="IPTV Int Punjabi",Gaunda Punjab TV (720p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://gaundapunjablive.com/wp-content/uploads/2017/06/BBC-LOGO-MADE.png" group-title="IPTV Int Punjabi",Gaunda Punjab TV (720p)
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="http://radiolistenlive.com/logo/867-gurdwara-dukh-niwaran-sahib-ludhiana.jpg" group-title="IPTV Int Punjabi",GDNS Ludhiana (1080p)
 http://akalmultimedia.net:1935/gdnslive/gdns-live/playlist.m3u8
@@ -384,33 +423,37 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.imgur.com/RPRT3Zq.png" group-title="IPTV Int Punjabi",Hungama Bol Hadippa (1080p)
 https://live.hungama.com/linear/bol-hadippa/playlist.m3u8
-#EXTINF:-1 tvg-id="Living.India.News.in" tvg-chno="" tvg-logo="https://livingindianews.co.in/assets/images/livingindainews200x200.jpeg" group-title="IPTV Int Punjabi",Living India News (360p)
+#EXTINF:-1 tvg-id="Living.India.News.in" tvg-chno="" tvg-logo="https://livingindianews.co.in/assets/images/footer-logo-2022.png" group-title="IPTV Int Punjabi",Living India News (360p)
 https://livelegitpro.in/hls14/livingindia/index.m3u8
-#EXTINF:-1 tvg-id="MH.One.in" tvg-chno="" tvg-logo="https://shubhstar.com/wp-content/uploads/2022/01/Mh1-copy.png" group-title="IPTV Int Punjabi",MH One (360p)
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="MH.One.News.in" tvg-chno="" tvg-logo="https://pbs.twimg.com/media/CtnrWK3UsAAhixo.png" group-title="IPTV Int Punjabi",MH One News (360p)
-http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
-#EXTINF:-1 tvg-id="News18.Punjab.Haryana.Himachal.in" tvg-chno="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/2pIJZ51u.png" group-title="IPTV Int Punjabi",News18 Punjab Haryana Himachal (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_W5UfJQDv2Q
-#EXTINF:-1 tvg-id="News18.Punjab.Haryana.Himachal.in" tvg-chno="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/2pIJZ51u.png" group-title="IPTV Int Punjabi",News18 Punjab Haryana Himachal (576p)
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="http://www.luvpunjabtv.com/upload/source/unnamed%20(3).png" group-title="IPTV Int Punjabi",Luv Punjab TV (720p)
+https://player.mslivestream.net/mslive/83cc23319cec76faa60676417850cae9.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MH.One.in" tvg-chno="" tvg-logo="https://shubhstar.com/wp-content/uploads/2022/01/Mh1-copy.png" group-title="IPTV Int Punjabi",MH One (1080p)
+https://mhoneshaddha.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MH.One.News.in" tvg-chno="" tvg-logo="https://pbs.twimg.com/media/CtnrWK3UsAAhixo.png" group-title="IPTV Int Punjabi",MH One News (720p)
+https://mhonenews.in/hls/stream.m3u8
+#EXTINF:-1 tvg-id="News18.Punjab.Haryana.Himachal.in" tvg-chno="" tvg-logo="https://xcdn.public.app/396514/public-user-v2/2021/11/30/1034564789-1638285933.jpg" group-title="IPTV Int Punjabi",News18 Punjab Haryana Himachal (720p)
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_W5UfJQDv2Q
+#EXTINF:-1 tvg-id="News18.Punjab.Haryana.Himachal.in" tvg-chno="" tvg-logo="https://xcdn.public.app/396514/public-user-v2/2021/11/30/1034564789-1638285933.jpg" group-title="IPTV Int Punjabi",News18 Punjab Haryana Himachal (576p)
 #EXTVLCOPT:network-caching=1000
 http://tv.googledrivelinks.com/autoq.php?c=ETV_Haryana_and_HP_News
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wixstatic.com/media/c2bf5f_23535ef32fd74f77a48f26db876c7e2d~mv2.png" group-title="IPTV Int Punjabi",Only Music HD (1080p)
 https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
+#EXTINF:-1 tvg-id="INBC150001605" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/INBC150001605_20220824T102021.png" group-title="IPTV Int Punjabi",Pitaara (720p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01864-pitaaratv-pitaarain-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="http://store-images.s-microsoft.com/image/apps.58328.13510798887967581.3c7aabe3-b3ad-46b3-926c-709b64597493.6f777419-5a42-46c6-a140-aa2fe416b561" group-title="IPTV Int Punjabi",Prime Asia (720p)
 http://primeasia.dyndns.tv/Live_720p_Web/index.m3u8
 #EXTINF:-1 tvg-id="PTC.Chak.De.in" tvg-chno="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Chak-De-1.png" group-title="IPTV Int Punjabi",PTC Chak De (720p)
-https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w301084670_b446000_sleng.m3u8
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w497630758_b364000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/DHOL-TV.png" group-title="IPTV Int Punjabi",PTC Dhol (720p)
-https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/chunklist_w679327151_b446000_sleng.m3u8
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/chunklist_w1853296492_b364000_sleng.m3u8
 #EXTINF:-1 tvg-id="PTC.Music.in" tvg-chno="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Music-1.png" group-title="IPTV Int Punjabi",PTC Music (720p)
-https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/chunklist_w2045299201_b446000_sleng.m3u8
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/chunklist_w893509991_b364000_sleng.m3u8
 #EXTINF:-1 tvg-id="PTC.News.in" tvg-chno="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTCNews.png" group-title="IPTV Int Punjabi",PTC News (720p)
-https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w1419171339_b446000_sleng.m3u8
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w1152060657_b364000_sleng.m3u8
 #EXTINF:-1 tvg-id="PTC.Punjabi.Gold.in" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ptc_Punjabi_Gold.jpeg" group-title="IPTV Int Punjabi",PTC Punjabi Gold (720p)
-https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w652246613_b446000_sleng.m3u8
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1413066530_b364000_sleng.m3u8
 #EXTINF:-1 tvg-id="PTC.Simran.in" tvg-chno="" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/channel/landscape/132x99/EGLsv35K.png" group-title="IPTV Int Punjabi",PTC Simran (720p)
-https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/chunklist_w1392549187_b446000_sleng.m3u8
+https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/chunklist_w518334202_b364000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="http://www.ptn24.com/wp-content/themes/streaminfo/images/logo.png" group-title="IPTV Int Punjabi",PTN 24 (720p)
 http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/d6/df/7d/d6df7de1-a1a2-9af2-b93b-e9d75ded5756/AppIcon-0-1x_U007emarketing-0-85-220-0-6.png/1024x1024bb.png" group-title="IPTV Int Punjabi",Punjabi Zindabad (720p)
@@ -436,14 +479,12 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Alaraby%202.png" group-title="IPTV Int Arabic",Alaraby 2 (1080p)
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Alaraby%20TV.png" group-title="IPTV Int Arabic",Alaraby TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/BBC_News_Arabic.png/revision/latest/scale-to-height-down/450?cb=20220425161930" group-title="IPTV Int Arabic",BBC News Arabic (720p)
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Rotana%20Cinema.png" group-title="IPTV Int Arabic",Rotana Cinema (1080p)
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Rotana%20Classic.png" group-title="IPTV Int Arabic",Rotana Classic (1080p)
-https://dai.google.com/linear/hls/pa/event/0tkMWr6yRQiPO4uXSLCpLA/stream/93e95798-5f06-4c39-a79f-809b2966fae0:BRU/master.m3u8
+https://dai.google.com/linear/hls/pa/event/0tkMWr6yRQiPO4uXSLCpLA/stream/c9f28b5b-f8fc-4e15-bbc9-97df3aa29052:BRU/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/54cb044b04cc4f17899b91378e167e8dee188df8/TV/.Light/Rotana%20Khalijiah.png" group-title="IPTV Int Arabic",Rotana Khalijiah (1080p)
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Sharjah%20TV.png" group-title="IPTV Int Arabic",Sharjah TV (576p)
@@ -458,15 +499,21 @@ https://479cc5aa923d4f399f440d76bc53da92.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/BBC_News_Persian.png/revision/latest/scale-to-height-down/450?cb=20220425162258" group-title="IPTV Int Other",BBC News Persian (720p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/France%2024%20HD%20en%20Francais.png" group-title="IPTV Int Other",France 24 (en Francais) (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/france24/live
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/france24/live
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Hellenic%20TV.png" group-title="IPTV Int Other",Hellenic TV (576p)
 http://cbxedge.synapsetv.com/picker/tsstreamer/?f=Hellenic_SD
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/KBS_WORLD_logo_%282009-present%29.svg/revision/latest/scale-to-width-down/711?cb=20210714043627" group-title="IPTV Int Other",KBS World (720p)
-https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="USAJ30000122O" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20220621T075904.png" group-title="IPTV Int Other",New KMovies (720p)
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-chno="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/USAJ3000013FJ_20220621T075908.png" group-title="IPTV Int Other",New KPop (720p)
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="62ac54bda1c8650007e9d1c4" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/62ac54bda1c8650007e9d1c4/colorLogoPNG.png" group-title="IPTV Int Other",Pluto TV K-Drama (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac54bda1c8650007e9d1c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="61560abb6ae4b60007300555" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/61560abb6ae4b60007300555/colorLogoPNG.png" group-title="IPTV Int Other",Pluto TV K-Pop (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61560abb6ae4b60007300555/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Seoul_broadcasting_System_logo.svg/revision/latest/scale-to-width-down/711?cb=20210214211339" group-title="IPTV Int Other",SBS (720p)
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png" group-title="IPTV Int Other",Rakuten Viki (720p)
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/TV5Monde_Europe_2021.svg/revision/latest/scale-to-width-down/711?cb=20220504053752" group-title="IPTV Int Other",TV5Monde Europe (1080p)
@@ -479,8 +526,10 @@ https://live-qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
 
 	# Religion
 
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/God%20TV.png" group-title="IPTV Religion",God TV USA (720p)
+https://ott.god.tv/live/us/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/800/0/skychb3392.png" group-title="IPTV Religion",SBN USA (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SonlifeTV/live
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/c/SonlifeTV/live
 
 	# Adult
 
